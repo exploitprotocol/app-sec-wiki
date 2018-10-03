@@ -1,0 +1,1 @@
+For Mobile Security related resources, please visit my other project [MobileSecurityWiki.com](https://mobilesecuritywiki.com)
