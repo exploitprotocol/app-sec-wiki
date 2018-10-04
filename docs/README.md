@@ -56,7 +56,7 @@ Each type of vulnerability listed on this wiki is divided into the following fou
 
 It is awesome to see that you want to contribute to this wiki, which would directly help the community.
 You can contribute by adding any new piece of information on this wiki by:
-* tweet to [@appsecwiki](twitter.com/appsecwiki)
+* tweet to [@appsecwiki](https://twitter.com/appsecwiki)
 * creating a pull request on [appsecwiki github repo](https://github.com/exploitprotocol/app-sec-wiki)
 * emailing me at [aditya@appsecwiki.com](mailto:aditya@appsecwiki.com)
 
