@@ -134,6 +134,7 @@
 ## SQL Injection
 
 ### Learning
+* [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
 * [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
 * [Blind SQL Injection - OWASP](https://www.owasp.org/index.php/Blind_SQL_Injection)
 * [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
