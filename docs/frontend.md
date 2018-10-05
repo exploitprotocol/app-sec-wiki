@@ -92,6 +92,7 @@
 * [How to use Google's CSP Evaluator to bypass CSP - Thomas Orlita's blog](https://blog.thomasorlita.cz/vulns/google-csp-evaluator/)
 * [Bypassing CSP using polyglot JPEGs | Blog](https://portswigger.net/blog/bypassing-csp-using-polyglot-jpegs)
 * [Chrome XSS Auditor - SVG Bypass - Brute XSS](https://brutelogic.com.br/blog/chrome-xss-auditor-svg-bypass/)
+* [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa)
 
 ### Burp Extensions
 
