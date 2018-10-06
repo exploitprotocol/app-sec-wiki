@@ -4,8 +4,7 @@ If you are a Begineer, i would suggest to start with below books
 * [OWASP Testing Guide V4](https://www.owasp.org/images/1/19/OTGv4.pdf)
 * [Mastering Modern Web Penetration Testing By Prakhar Prashad]
 (https://www.amazon.in/Mastering-Modern-Web-Penetration-Testing/dp/1785284584)
-* [The Mobile Application Hacker's Handbook: Dominic Chell, Tyrone Erasmus, Shaun Colley, Ollie Whitehouse](https://www.amazon.com/gp/product/1118958500/ref=as_li_tl?ie=UTF8&tag=bugcrowd-20&
-camp=1789&creative=9325&linkCode=as2&creativeASIN=1118958500&linkId=249a44a5688c8aadc866e9a61cfcd34f)
+* [The Mobile Application Hacker's Handbook: Dominic Chell, Tyrone Erasmus, Shaun Colley, Ollie Whitehouse](https://www.amazon.com/gp/product/1118958500/)
 * [Breaking into Information Security: Learning the Ropes 101 By Andrew Gill](https://leanpub.com/ltr101-breaking-into-infosec)
 
 After you have gone through above books, you can have a read at books below.
