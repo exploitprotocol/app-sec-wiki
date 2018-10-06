@@ -381,6 +381,7 @@
 
 * [Web Application Firewall (WAF) Evasion Techniques – secjuice™ – Medium](https://medium.com/secjuice/waf-evasion-techniques-718026d693d8)
 * [Web Application Firewall (WAF) Evasion Techniques #2](https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0)
+* [Web Application Firewall (WAF) Evasion Techniques #3](https://www.secjuice.com/web-application-firewall-waf-evasion/)
 * [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities | Brett Buerhaus](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/)
 * [How to bypass libinjection in many WAF/NGWAF – Ivan Novikov – Medium](https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f)
 
