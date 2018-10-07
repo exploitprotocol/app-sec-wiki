@@ -7,6 +7,6 @@ If you are a Begineer, i would suggest to start with below books
 * [Breaking into Information Security: Learning the Ropes 101 By Andrew Gill](https://leanpub.com/ltr101-breaking-into-infosec)
 
 After you have gone through above books, you can have a read at books below.
-
+*[Penetration Testing: A Hands-On Introduction to Hacking By Georgia Weidman ](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
 * [Tangled Web | No Starch Press](https://nostarch.com/tangledweb)
 * [The Browser Hacker's Handbook | Networking / Security | Networking | General & Introductory Computer Science | Subjects | Wiley](https://www.wiley.com/en-us/The+Browser+Hacker%27s+Handbook-p-9781118662090)
