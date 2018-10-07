@@ -23,7 +23,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [PortSwigger/command-injection-attacker: SHELLING - a comprehensive OS command injection payload generator](https://github.com/portswigger/command-injection-attacker)
 * [wagiro/BurpBounty: Burp Bounty (Scan Check Builder in BApps Store) is a extension of Burp Suite that improve an active and passive scanner by yourself. This extension requires Burp Suite Pro.](https://github.com/wagiro/BurpBounty)
 * [righettod/log-requests-to-sqlite: BURP extension to record every HTTP request send via BURP and create an audit trail log of an assessment.](https://github.com/righettod/log-requests-to-sqlite)
-
+* [albinowax/ActiveScanPlusPlus: ActiveScan++ Burp Suite Plugin](https://github.com/albinowax/ActiveScanPlusPlus)
 ## Developing Burp Extensions
 
 * [Adapting Burp extensions for tailored pentesting | Blog](https://portswigger.net/blog/adapting-burp-extensions-for-tailored-pentesting)
