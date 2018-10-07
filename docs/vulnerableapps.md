@@ -13,6 +13,7 @@ Below is list of some offline and online vulnerable web application, which can b
 
 * [bWAPP, or a buggy web application](http://www.itsecgames.com/)
 * [Bricks is a web application security learning platform built on PHP and MySQL](https://sechow.com/bricks/index.html)
+* [eoftedal/deserialize: Vulnerable Spring MVC API](https://github.com/eoftedal/deserialize)
 * [DVWA - Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
 * [snoopysecurity/dvws: Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.](https://github.com/snoopysecurity/dvws)
 * [secvulture/dvta: Damn Vulnerable Thick Client App](https://github.com/secvulture/dvta)
