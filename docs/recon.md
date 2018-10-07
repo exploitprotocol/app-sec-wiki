@@ -43,6 +43,7 @@
 
 * [hannob/svnscraper: bash script to download publicly available .svn directories](https://github.com/hannob/svnscraper)
 * [UnkL4b/GitMiner: Tool for advanced mining for content on Github](https://github.com/UnkL4b/GitMiner)
+* [Ebryx/GitDump: A pentesting tool that dumps the source code from .git even when the directory traversal is disabled](https://github.com/Ebryx/GitDump)
 * [UKHomeOffice/repo-security-scanner: CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys](https://github.com/UKHomeOffice/repo-security-scanner)
 * [dxa4481/truffleHog: Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
 * [FeeiCN/GSIL: GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）](https://github.com/FeeiCN/GSIL)
