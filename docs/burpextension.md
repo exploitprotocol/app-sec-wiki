@@ -26,6 +26,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [albinowax/ActiveScanPlusPlus: ActiveScan++ Burp Suite Plugin](https://github.com/albinowax/ActiveScanPlusPlus)
 * [PortSwigger/backslash-powered-scanner: Finds unknown classes of injection vulnerabilities](https://github.com/PortSwigger/backslash-powered-scanner)
 * [RhinoSecurityLabs/SleuthQL: Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.](https://github.com/RhinoSecurityLabs/SleuthQL)
+* [Ebryx/AES-Killer: Burp plugin to decrypt AES Encrypted traffic of mobile apps on fly](https://github.com/Ebryx/AES-Killer)
 
 ## Developing Burp Extensions
 
