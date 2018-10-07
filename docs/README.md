@@ -41,7 +41,7 @@ Each type of vulnerability listed on this wiki is divided into the following fou
 <div id="mc_embed_signup">
 <form action="https://facebook.us14.list-manage.com/subscribe/post?u=3ce0b37a46bdc49195b7bf55e&amp;id=c93f26d494" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to our mailing list below</label>
+	<label for="mce-EMAIL">Subscribe to our newsletter below</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3ce0b37a46bdc49195b7bf55e_c93f26d494" tabindex="-1" value=""></div>
