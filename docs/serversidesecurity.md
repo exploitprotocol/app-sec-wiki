@@ -65,7 +65,7 @@
 
 ### Tools
 * [immunIT/XIP: XIP generates a list of IP addresses by applying a set of transformations used to bypass security measures e.g. blacklist filtering, WAF, etc.](https://github.com/immunIT/XIP)
-* [OsandaMalith/IPObfuscator: A simple too to convert the IP to a DWORD IP](https://github.com/OsandaMalith/IPObfuscator)
+* [C-REMO/Obscure-IP-Obfuscator: Simple script you can use to convert and obscure any IP address of any host.](https://github.com/C-REMO/Obscure-IP-Obfuscator)
 * [tarunkant/Gopherus: This tool generates gopher link for exploiting SSRF and gaining RCE in various servers](https://github.com/tarunkant/Gopherus)
 * [blazeinfosec/ssrf-ntlm: Proof of concept written in Python to show that in some situations a SSRF vulnerability can be used to steal NTLMv1/v2 hashes.](https://github.com/blazeinfosec/ssrf-ntlm)
 * [PayloadsAllTheThings/SSRF injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SSRF%20injection)
