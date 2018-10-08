@@ -28,6 +28,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [RhinoSecurityLabs/SleuthQL: Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.](https://github.com/RhinoSecurityLabs/SleuthQL)
 * [Ebryx/AES-Killer: Burp plugin to decrypt AES Encrypted traffic of mobile apps on fly](https://github.com/Ebryx/AES-Killer)
 * [luh2/DetectDynamicJS: The DetectDynamicJS Burp Extension provides an additional passive scanner that tries to find differing content in JavaScript files and aid in finding user/session data.](https://github.com/luh2/DetectDynamicJS)
+* [EnableSecurity/burp-luhn-payload-processor: A plugin for Burp Suite Pro to work with attacker payloads and automatically generate check digits for credit card numbers and similar numbers that end with a check digit generated using the Luhn algorithm or formula (also known as the "modulus 10" or "mod 10" algorithm).](https://github.com/EnableSecurity/burp-luhn-payload-processor)
 
 ## Developing Burp Extensions
 
