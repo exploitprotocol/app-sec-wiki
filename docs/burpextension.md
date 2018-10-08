@@ -30,6 +30,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [luh2/DetectDynamicJS: The DetectDynamicJS Burp Extension provides an additional passive scanner that tries to find differing content in JavaScript files and aid in finding user/session data.](https://github.com/luh2/DetectDynamicJS)
 * [EnableSecurity/burp-luhn-payload-processor: A plugin for Burp Suite Pro to work with attacker payloads and automatically generate check digits for credit card numbers and similar numbers that end with a check digit generated using the Luhn algorithm or formula (also known as the "modulus 10" or "mod 10" algorithm).](https://github.com/EnableSecurity/burp-luhn-payload-processor)
 * [federicodotta/Java-Deserialization-Scanner: All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities](https://github.com/federicodotta/Java-Deserialization-Scanner)
+* [ilmila/J2EEScan: J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.](https://github.com/ilmila/J2EEScan)
 
 ## Developing Burp Extensions
 
