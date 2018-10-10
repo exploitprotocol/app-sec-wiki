@@ -272,6 +272,7 @@
 
 * [REST Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 * [shieldfy/API-Security-Checklist: Checklist of the most important security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist)
+* [An interesting Google vulnerability that got me 3133.7 reward. | Security Down!](http://www.sec-down.com/wordpress/?p=809)
 
 ## Oauth Security
 
@@ -306,6 +307,7 @@
 * [Deserialization of untrusted data - OWASP](https://www.owasp.org/index.php/Deserialization_of_untrusted_data)
 * [Deserialization Cheat Sheet - OWASP](https://www.owasp.org/index.php/Deserialization_Cheat_Sheet)
 * [Top 10-2017 A8-Insecure Deserialization - OWASP](https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization)
+
 ### Writeups
 
 * [Blind Java Deserialization Vulnerability - Commons Gadgets](https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html)
@@ -337,6 +339,8 @@
 * [Top 10-2017 A2-Broken Authentication - OWASP](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
 * [Authentication Cheat Sheet - OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 * [Testing for HTTP Verb Tampering (OTG-INPVAL-003) - OWASP](https://www.owasp.org/index.php/Testing_for_HTTP_Verb_Tampering_(OTG-INPVAL-003))
+* [GoogleMeetRoulette: Joining random meetings - Martin Vigo](https://www.martinvigo.com/googlemeetroulette/)
+
 ### Writeups
 
 * [#172137 Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137)
@@ -439,11 +443,13 @@
 * [How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities](https://www.bugcrowd.com/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
 
 ### Writeups
+
 * [Uber Hacking: How we found out who you are, where you are and where you went! | INTEGRITY Labs](https://labs.integrity.pt/articles/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went/)
 * [Gsuite Hangouts Chat 5k IDOR](https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html)
 * [Facebook's Bug - Delete any video from Facebook](https://pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/)
 * [Hacking Facebook's Legacy API, Part 1: Making Calls on Behalf of Any User](https://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/)
 * [Hacking Facebook's Legacy API, Part 2: Stealing User Sessions](https://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/)
+* [Get as image function pulls any Insights/NRQL data from any New Relic account (IDOR)](https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/)
 
 ## SMTP Injection
 
