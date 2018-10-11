@@ -39,6 +39,7 @@
 * [#212696 RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`](https://hackerone.com/reports/212696)
 * [Command injection which got me "6000$" from #Google](http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html?view=sidebar)
 * [Latex to RCE, Private Bug Bounty Program – InfoSec Write-ups – Medium](https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a)
+* [Yahoo! RCE via Spring Engine SSTI – ∞ Growing Web Security Blog](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)
 
 ### Tools/Payloads
 
