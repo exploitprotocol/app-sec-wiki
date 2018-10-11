@@ -32,6 +32,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [federicodotta/Java-Deserialization-Scanner: All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities](https://github.com/federicodotta/Java-Deserialization-Scanner)
 * [ilmila/J2EEScan: J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.](https://github.com/ilmila/J2EEScan)
 * [mvetsch/JWT4B: JSON Web Tokens (JWT) support for Burp](https://github.com/mvetsch/JWT4B)
+* [SAMLRaider/SAMLRaider: SAML Raider is a Burp Suite extension for testing SAML infrastructures](https://github.com/SAMLRaider/SAMLRaider)
 
 ## Developing Burp Extensions
 
