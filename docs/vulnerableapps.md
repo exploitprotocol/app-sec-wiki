@@ -8,6 +8,7 @@ Below is list of some offline and online vulnerable web application, which can b
 * [XSS game](https://xss-game.appspot.com/)
 * [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 * [Hackazon](http://hackazon.webscantest.com/)
+* [A vulnerable web application with a built in guide/walkthrough](https://google-gruyere.appspot.com/)
 
 ## Offline apps
 
@@ -24,3 +25,4 @@ Below is list of some offline and online vulnerable web application, which can b
 * [Audi-1/sqli-labs: SQLI labs to test error based, Blind boolean based, Time based.](https://github.com/Audi-1/sqli-labs)
 * [WebGoat/WebGoat: WebGoat 8.0](https://github.com/WebGoat/WebGoat)
 * [s4n7h0/xvwa: XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.](https://github.com/s4n7h0/xvwa)
+
