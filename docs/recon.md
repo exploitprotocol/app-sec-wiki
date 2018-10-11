@@ -48,6 +48,7 @@
 * [dxa4481/truffleHog: Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
 * [FeeiCN/GSIL: GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）](https://github.com/FeeiCN/GSIL)
 * [michenriksen/gitrob: Reconnaissance tool for GitHub organizations](https://github.com/michenriksen/Gitrob)
+* [zricethezav/gitleaks: Audit git repos for secrets 🔑](https://github.com/zricethezav/gitleaks)
 
 ## Javascript Parsing
 * [GerbenJavado/LinkFinder: A python script that finds endpoints in JavaScript files](https://github.com/GerbenJavado/LinkFinder)
