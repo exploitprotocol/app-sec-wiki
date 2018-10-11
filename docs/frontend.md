@@ -228,10 +228,12 @@
 * [RPO in Google Fusion Table](https://blog.innerht.ml/internet-explorer-has-a-url-problem/#rpoingooglefusiontable)
 
 ## CSS Injection
+
 * [Testing for CSS Injection (OTG-CLIENT-005) - OWASP](https://www.owasp.org/index.php/Testing_for_CSS_Injection_(OTG-CLIENT-005))
 * [Yahoo Login Protection Seal – Stored CSS Injection | Brett Buerhaus](https://buer.haus/2016/04/18/yahoo-login-protection-seal-stored-css-injection/)
 * [Exfiltration via CSS Injection – d0nut – Medium](https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d)
 * [dxa4481/cssInjection: Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection)
+
 ## ClickJacking
 
 * [Clickjackings in several Google Products](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a)
@@ -239,5 +241,6 @@
 ## CORS Vulnerabilities
 
 * [Test Cross Origin Resource Sharing (OTG-CLIENT-007) - OWASP](https://www.owasp.org/index.php/Test_Cross_Origin_Resource_Sharing_(OTG-CLIENT-007))
+* [Authoritative guide to CORS (Cross-Origin Resource Sharing) for REST APIs | Moesif’s Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
 * [Critical Issue Opened Private Chats of Facebook Messenger Users Up to Attackers - Cynet](https://www.cynet.com/blog-facebook-originull/)
 * [The Complete Guide to CORS (In)Security](https://www.bedefended.com/papers/cors-security-guide)
