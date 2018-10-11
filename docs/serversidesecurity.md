@@ -80,6 +80,7 @@
 
 ### Learning
 
+* [XML Vulnerabilities and Attacks cheatsheet](https://gist.github.com/mgeeky/4f726d3b374f0a34267d4f19c9004870)
 * [XXE](https://phonexicum.github.io/infosec/xxe.html)
 * [XPATH Injection - OWASP](https://www.owasp.org/index.php/XPATH_Injection)
 * [Top 10-2017 A4-XML External Entities (XXE) - OWASP](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE))
