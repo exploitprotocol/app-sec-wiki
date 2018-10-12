@@ -271,6 +271,7 @@
 * [Omer Gil: Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html)
 * [#260697 CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697)
 * [PayloadsAllTheThings/Web cache deception ](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20cache%20deception)
+
 ## API Security
 
 * [REST Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
@@ -292,14 +293,15 @@
 
 ## GraphQL Security
 
-* [A Facebook GraphQL crash course](https://www.facebook.com/notes/phwd/a-facebook-graphql-crash-course/1189337427822946)
-* [#291531 Introspection query leaks sensitive graphql system information.](https://hackerone.com/reports/291531)
 * [Pete Corey - GraphQL NoSQL Injection Through JSON Types](http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/)
 * [Security Points to Consider Before Implementing GraphQL | Nordic APIs |](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
 * [In graph we trust: Microservices, GraphQL and security challenges](https://www.slideshare.net/secfigo/in-graph-we-trust-microservices-graphql-and-security-challenges)
+* [Looting GraphQL Endpoints for Fun and Profit | Raz0r.name — Web Application Security](https://raz0r.name/articles/looting-graphql-endpoints-for-fun-and-profit/)
 * [Pete Corey - GraphQL NoSQL Injection Through JSON Types](http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/)
 * [Discovering GraphQL endpoints and SQLi vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 * [GraphQL abuse: Bypass account level permissions through parameter smuggling](https://labs.detectify.com/2018/03/14/graphql-abuse/)
+* [A Facebook GraphQL crash course](https://www.facebook.com/notes/phwd/a-facebook-graphql-crash-course/1189337427822946)
+* [#291531 Introspection query leaks sensitive graphql system information.](https://hackerone.com/reports/291531)
 
 ### Tools
 * [doyensec/graph-ql: GraphQL Security Research Material](https://github.com/doyensec/graph-ql)
