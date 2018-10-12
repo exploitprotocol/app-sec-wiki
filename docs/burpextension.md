@@ -33,6 +33,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [ilmila/J2EEScan: J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.](https://github.com/ilmila/J2EEScan)
 * [mvetsch/JWT4B: JSON Web Tokens (JWT) support for Burp](https://github.com/mvetsch/JWT4B)
 * [SAMLRaider/SAMLRaider: SAML Raider is a Burp Suite extension for testing SAML infrastructures](https://github.com/SAMLRaider/SAMLRaider)
+* [zidekmat/graphql_beautifier: Burp Suite extension to help make Graphql request more readable](https://github.com/zidekmat/graphql_beautifier)
 
 ## Developing Burp Extensions
 
