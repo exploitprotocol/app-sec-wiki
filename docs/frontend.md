@@ -10,6 +10,9 @@
 * [Xssing Web Part - 1](http://blog.rakeshmane.com/2016/11/xssing-web-part-1.html)
 * [Xssing Web Part - 2](http://blog.rakeshmane.com/2017/08/xssing-web-part-2.html)
 * [IronWASP - Open Source Advanced Web Security Testing Platform: Contexts and Cross-site Scripting - a brief intro](http://blog.ironwasp.org/2014/07/contexts-and-cross-site-scripting-brief.html)
+* [Why isn't my injection firing, it looks perfect! - An XSS Troubleshooting Guide](https://mechatechsec.blogspot.com/2018/05/why-isnt-my-injection-firing-it-looks.html)
+* [5 Practical Scenarios for XSS Attacks-Writing PoCs](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/)
+* [Excess XSS: A comprehensive tutorial on cross-site scripting](https://excess-xss.com/)
 
 ### Reflected XSS
 
@@ -62,6 +65,7 @@
 * [Minded Security Blog: DOM XSS in Google VRView library](https://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html)
 * [#231053 XSS on any Shopify shop via abuse of the HTML5 structured clone algorithm in postMessage listener on "/:id/digital_wallets/dialog"](https://hackerone.com/reports/231053)
 * [#262230 Tinymce 2.4.0](https://hackerone.com/reports/262230)
+* [DOM Based Cross Site Scripting or XSS of the Third Kind](http://www.webappsec.org/projects/articles/071105.shtml)
 
 ### Blind XSS
 
@@ -82,6 +86,8 @@
 * [nVisium/xssValidator: This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.](https://github.com/nVisium/xssValidator)
 * [mandatoryprogrammer/xssless: An automated XSS payload generator written in python.](https://github.com/mandatoryprogrammer/xssless)
 * [stamparm/DSXS: Damn Small XSS Scanner](https://github.com/stamparm/DSXS)
+* [XSStrike](https://xsstrike.tk/)
+* [XSS Hunter](https://xsshunter.com/features)
 
 ## Content Security Policy(CSP)
 
@@ -93,6 +99,11 @@
 * [Bypassing CSP using polyglot JPEGs | Blog](https://portswigger.net/blog/bypassing-csp-using-polyglot-jpegs)
 * [Chrome XSS Auditor - SVG Bypass - Brute XSS](https://brutelogic.com.br/blog/chrome-xss-auditor-svg-bypass/)
 * [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa)
+* [Content Security Policy Reference](https://content-security-policy.com/)
+* [Content Security Policy - An Introduction - Scott Helme](https://scotthelme.co.uk/content-security-policy-an-introduction/)
+* [Content Security Policy (CSP) Validator](https://www.cspvalidator.org/)
+* [Content Security Policies Best Practices - NCCGroup](https://www.nccgroup.trust/globalassets/newsroom/us/news/documents/2013/csp_best_practices.pdf)
+* [h3xStream's blog: Auditing CSP headers with Burp and ZAP](https://blog.h3xstream.com/2016/06/auditing-csp-headers-with-burp-and-zap.html)
 
 ### Burp Extensions
 
@@ -119,6 +130,7 @@
 * [#44146 Make API calls on behalf of another user (CSRF protection bypass)](https://hackerone.com/reports/44146)
 * [Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack)](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/)
 * [How I found a Remote Code Execution bug affecting Facebook's servers](https://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution)
+* [Stealing CSRF tokens with XSS](https://digi.ninja/blog/xss_steal_csrf_token.php)
 
 ### JSON CSRF
 
@@ -138,6 +150,7 @@
 * [DOM based AngularJS sandbox escapes | Blog](https://portswigger.net/blog/dom-based-angularjs-sandbox-escapes)
 * [Angular JS Security Videos](https://www.youtube.com/playlist?list=PLhixgUqwRTjwJTIkNopKuGLk3Pm9Ri1sF)
 * [XSS without HTML: Client-Side Template Injection with AngularJS | Blog](https://portswigger.net/blog/xss-without-html-client-side-template-injection-with-angularjs)
+
 ## React JS
 
 * [XSS via a spoofed React element](http://danlec.com/blog/xss-via-a-spoofed-react-element)
@@ -191,6 +204,7 @@
 ### Tools
 
 * [cure53/Flashbang: Project "Flashbang" - An open-source Flash-security helper](https://github.com/cure53/Flashbang)
+* [CharCode Translator](http://www.jdstiles.com/java/cct.html)
 
 ## Dangling Markup
 
