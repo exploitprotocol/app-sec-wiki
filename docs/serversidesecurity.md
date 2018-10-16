@@ -161,7 +161,7 @@
 * [Exploiting A Tricky SQL Injection With sqlmap](http://pentestmonkey.net/blog/exploiting-a-tricky-sql-injection-with-sqlmap)
 * [SQLMap Tamper Scripts (SQL Injection and WAF bypass) Tips](https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3)
 * [SQLMap Tamper Scripts (SQL Injection and WAF bypass)](https://forum.bugcrowd.com/t/sqlmap-tamper-scripts-sql-injection-and-waf-bypass/423)
-* [https://eternalnoobs.com/sqli-without-quotes/](SQLi Without Quotes)  
+* [SQLi Without Quotes](https://eternalnoobs.com/sqli-without-quotes/)  
 
 ### Writeups
 
