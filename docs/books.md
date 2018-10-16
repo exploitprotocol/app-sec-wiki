@@ -1,4 +1,4 @@
-If you are a Begineer, i would suggest to start with below books
+If you are a beginner, I would suggest to start with below books:
 
 * [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws: Dafydd Stuttard, Marcus Pinto](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
 * [OWASP Testing Guide V4](https://www.owasp.org/images/1/19/OTGv4.pdf)
