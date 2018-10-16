@@ -150,6 +150,7 @@
 * [DOM based AngularJS sandbox escapes | Blog](https://portswigger.net/blog/dom-based-angularjs-sandbox-escapes)
 * [Angular JS Security Videos](https://www.youtube.com/playlist?list=PLhixgUqwRTjwJTIkNopKuGLk3Pm9Ri1sF)
 * [XSS without HTML: Client-Side Template Injection with AngularJS | Blog](https://portswigger.net/blog/xss-without-html-client-side-template-injection-with-angularjs)
+
 ## React JS
 
 * [XSS via a spoofed React element](http://danlec.com/blog/xss-via-a-spoofed-react-element)
@@ -241,10 +242,12 @@
 * [RPO in Google Fusion Table](https://blog.innerht.ml/internet-explorer-has-a-url-problem/#rpoingooglefusiontable)
 
 ## CSS Injection
+
 * [Testing for CSS Injection (OTG-CLIENT-005) - OWASP](https://www.owasp.org/index.php/Testing_for_CSS_Injection_(OTG-CLIENT-005))
 * [Yahoo Login Protection Seal – Stored CSS Injection | Brett Buerhaus](https://buer.haus/2016/04/18/yahoo-login-protection-seal-stored-css-injection/)
 * [Exfiltration via CSS Injection – d0nut – Medium](https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d)
 * [dxa4481/cssInjection: Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection)
+
 ## ClickJacking
 
 * [Clickjackings in several Google Products](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a)
