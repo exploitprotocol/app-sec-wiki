@@ -64,11 +64,13 @@
 * [Ok Google, Give Me All Your Internal DNS Information! – RCE Security](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)
 
 ### Tools
+
 * [immunIT/XIP: XIP generates a list of IP addresses by applying a set of transformations used to bypass security measures e.g. blacklist filtering, WAF, etc.](https://github.com/immunIT/XIP)
 * [C-REMO/Obscure-IP-Obfuscator: Simple script you can use to convert and obscure any IP address of any host.](https://github.com/C-REMO/Obscure-IP-Obfuscator)
 * [tarunkant/Gopherus: This tool generates gopher link for exploiting SSRF and gaining RCE in various servers](https://github.com/tarunkant/Gopherus)
 * [blazeinfosec/ssrf-ntlm: Proof of concept written in Python to show that in some situations a SSRF vulnerability can be used to steal NTLMv1/v2 hashes.](https://github.com/blazeinfosec/ssrf-ntlm)
 * [PayloadsAllTheThings/SSRF injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SSRF%20injection)
+
 ### Cheatsheet/Payloads
 
 * [SSRF bible. Cheatsheet ](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
@@ -84,6 +86,14 @@
 * [XPATH Injection - OWASP](https://www.owasp.org/index.php/XPATH_Injection)
 * [Top 10-2017 A4-XML External Entities (XXE) - OWASP](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE))
 * [XML Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/XML_Security_Cheat_Sheet)
+* [XML Parser Evaluation ](https://web-in-security.blogspot.com/2016/03/xml-parser-evaluation.html)
+* [DTD Cheat Sheet](https://web-in-security.blogspot.com/2016/03/xxe-cheat-sheet.html)
+* [Security Implications of DTD Attacks Against a Wide Range of XML Parsers](https://www.nds.rub.de/media/nds/arbeiten/2015/11/04/spaeth-dtd_attacks.pdf)
+* [XXE Cheatsheet – XML External Entity Injection](https://www.gracefulsecurity.com/xxe-cheatsheet/)
+* [Generic XXE Detection](http://christian-schneider.net/GenericXxeDetection.html#main)
+* [Exploitation: XML External Entity (XXE) Injection](https://depthsecurity.com/blog/exploitation-xml-external-entity-xxe-injection)
+* [Payload All The Things XXE](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20injection)
+* [XML Vulnerabilities and Attacks cheatsheet](https://gist.github.com/mgeeky/4f726d3b374f0a34267d4f19c9004870)
 
 ### Writeups
 
@@ -117,6 +127,12 @@
 
 * [Testing for Local File Inclusion - OWASP](https://www.owasp.org/index.php/Testing_for_Local_File_Inclusion)
 * [Testing Directory traversal/file include (OTG-AUTHZ-001) - OWASP](https://www.owasp.org/index.php/Testing_Directory_traversal/file_include_(OTG-AUTHZ-001))
+* [Using php://filter for local file inclusion](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
+* [Upgrade from LFI to RCE via PHP Sessions](https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/)
+* [LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
+* [Directory Traversal, File Inclusion, and The Proc File System](https://blog.netspi.com/directory-traversal-file-inclusion-proc-file-system/)
+* [LFI to shell – exploiting Apache access log](https://roguecod3r.wordpress.com/2014/03/17/lfi-to-shell-exploiting-apache-access-log/)
+* [Exploiting PHP File Inclusion – Overview](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
 
 ### Writeups
 
@@ -134,12 +150,18 @@
 ## SQL Injection
 
 ### Learning
+
 * [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
 * [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
 * [Blind SQL Injection - OWASP](https://www.owasp.org/index.php/Blind_SQL_Injection)
 * [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
 * [Testing for SQL Injection (OTG-INPVAL-005) - OWASP](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 * [SQL Injection Bypassing WAF - OWASP](https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF)
+* [SQLInjection.net](http://www.sqlinjection.net/)
+* [Exploiting A Tricky SQL Injection With sqlmap](http://pentestmonkey.net/blog/exploiting-a-tricky-sql-injection-with-sqlmap)
+* [SQLMap Tamper Scripts (SQL Injection and WAF bypass) Tips](https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3)
+* [SQLMap Tamper Scripts (SQL Injection and WAF bypass)](https://forum.bugcrowd.com/t/sqlmap-tamper-scripts-sql-injection-and-waf-bypass/423)
+* [https://eternalnoobs.com/sqli-without-quotes/](SQLi Without Quotes)  
 
 ### Writeups
 
@@ -151,6 +173,7 @@
 * [Exploiting a Boolean Based SQL Injection using Burp Suite Intruder – i break software](https://ibreak.software/2017/12/exploiting-a-boolean-based-sql-injection-using-burp-suite-intruder/)
 * [Beyond SQLi: Obfuscate and Bypass](https://www.exploit-db.com/papers/17934/)
 * [Orange: GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html)
+* [Anatomy of a Hack: SQLi to Enterprise Admin](https://www.notsosecure.com/anatomy-of-a-hack-sqli-to-enterprise-admin/)
 
 ### Cheatsheet/Payloads
 
@@ -170,8 +193,13 @@
 * [Common JWT security vulnerabilities and how to avoid them | Connect2id](https://connect2id.com/products/nimbus-jose-jwt/vulnerabilities)
 * [JSON Web Token (JWT) Cheat Sheet for Java - OWASP](https://www.owasp.org/index.php/JSON_Web_Token_(JWT)_Cheat_Sheet_for_Java)
 * [How to Hack a Weak JWT Implementation with a Timing Attack](https://hackernoon.com/can-timing-attack-be-a-practical-security-threat-on-jwt-signature-ba3c8340dea9)
+* [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+* [Stop using JWT for sessions, part 2: Why your solution doesn't work](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
+* [Crafting your way through JSON Web Tokens](https://www.notsosecure.com/crafting-way-json-web-tokens/)
+* [JWT Hacking 101](https://trustfoundry.net/jwt-hacking-101/)
 
 ### Writeups
+
 * [How I got access to millions of [redacted] accounts - Bitquark](https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts)
 * [Hacking JSON Web Tokens](https://blog.websecurify.com/2017/02/hacking-json-web-tokens.html)
 
@@ -202,7 +230,9 @@
 ## Mongo DB Injection
 
 ### Learning
+
 * [Testing for NoSQL injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+* [Attacking MongoDB](http://blog.ptsecurity.com/2012/11/attacking-mongodb.html)
 
 ### Writeups
 
@@ -217,6 +247,7 @@
 
 * [codingo/NoSQLMap: Automated NoSQL database enumeration and web application exploitation tool.](https://github.com/codingo/NoSQLMap)
 * [PayloadsAllTheThings/NoSQL injection ](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20injection)
+
 ## Race Conditions
 
 ### Learning
@@ -268,6 +299,7 @@
 * [Omer Gil: Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html)
 * [#260697 CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697)
 * [PayloadsAllTheThings/Web cache deception ](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20cache%20deception)
+
 ## API Security
 
 * [REST Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
@@ -299,11 +331,13 @@
 * [GraphQL abuse: Bypass account level permissions through parameter smuggling](https://labs.detectify.com/2018/03/14/graphql-abuse/)
 
 ### Tools
+
 * [doyensec/graph-ql: GraphQL Security Research Material](https://github.com/doyensec/graph-ql)
 
 ## Java Deserilization
 
 ### Learning
+
 * [Deserialization of untrusted data - OWASP](https://www.owasp.org/index.php/Deserialization_of_untrusted_data)
 * [Deserialization Cheat Sheet - OWASP](https://www.owasp.org/index.php/Deserialization_Cheat_Sheet)
 * [Top 10-2017 A8-Insecure Deserialization - OWASP](https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization)
@@ -335,6 +369,7 @@
 ## Authentication Bypass
 
 ### Learning
+
 * [Testing for Bypassing Authentication Schema (OTG-AUTHN-004) - OWASP](https://www.owasp.org/index.php/Testing_for_Bypassing_Authentication_Schema_(OTG-AUTHN-004))
 * [Top 10-2017 A2-Broken Authentication - OWASP](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
 * [Authentication Cheat Sheet - OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
@@ -376,11 +411,14 @@
 * [Server-Side Template Injection | Blog](https://portswigger.net/blog/server-side-template-injection)
 * [Server-Side Template Injection:RCE for the modern webapp](https://www.blackhat.com/docs/us-15/materials/us-15-Kettle-Server-Side-Template-Injection-RCE-For-The-Modern-Web-App-wp.pdf)
 * [Exploitation of Server Side Template Injection with Craft CMS plugin SEOmatic | Can I Haz Security](http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/)
+* [Exploring SSTI in Flask/Jinja2](https://www.lanmaster53.com/2016/03/09/exploring-ssti-flask-jinja2/)
+* [Exploring SSTI in Flask/Jinja2 - Part 2](https://www.lanmaster53.com/2016/03/11/exploring-ssti-flask-jinja2-part-2/)
 
 ### Tools
 
 * [epinna/tplmap: Server-Side Template Injection and Code Injection Detection and Exploitation Tool](https://github.com/epinna/tplmap)
 * [PayloadsAllTheThings/Server Side Template injections](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20injections)
+
 ## WAF Bypass
 
 * [Web Application Firewall (WAF) Evasion Techniques – secjuice™ – Medium](https://medium.com/secjuice/waf-evasion-techniques-718026d693d8)
@@ -388,7 +426,6 @@
 * [Web Application Firewall (WAF) Evasion Techniques #3](https://www.secjuice.com/web-application-firewall-waf-evasion/)
 * [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities | Brett Buerhaus](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/)
 * [How to bypass libinjection in many WAF/NGWAF – Ivan Novikov – Medium](https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f)
-
 
 ## WebHooks Security
 
@@ -430,6 +467,7 @@
 * [PayloadsAllTheThings/PHP serialization ](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/PHP%20serialization)
 
 ## Application Logic
+
 * [Business logic vulnerability - OWASP](https://www.owasp.org/index.php/Business_logic_vulnerability)
 * [Testing for business logic - OWASP](https://www.owasp.org/index.php/Testing_for_business_logic)
 * [Google Exploit - Steal Account Login Email Addresses - Tom Anthony](http://www.tomanthony.co.uk/blog/google-exploit-steal-login-email-addresses/)
@@ -438,6 +476,7 @@
 ## Insecure Direct Object Reference(IDOR)
 
 ### Learning
+
 * [Top 10 2013-A4-Insecure Direct Object References - OWASP](https://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References)
 * [Testing for Insecure Direct Object References (OTG-AUTHZ-004) - OWASP](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004))
 * [How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities](https://www.bugcrowd.com/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
@@ -467,7 +506,9 @@
 
 * [cujanovic/CRLF-Injection-Payloads: Payloads for CRLF Injection](https://github.com/cujanovic/CRLF-Injection-Payloads/blob/master/CRLF-payloads.txt)
 * [PayloadsAllTheThings/CRLF injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF%20injection)
+
 ## Forgot Password Related Vulnerabilities
+
 * [Forgot Password Cheat Sheet - OWASP](https://www.owasp.org/index.php/Forgot_Password_Cheat_Sheet)
 * [Full account Takeover via reset password function](https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f)
 
