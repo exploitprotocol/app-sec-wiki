@@ -240,7 +240,7 @@
 
 ## CORS Vulnerabilities
 
-* [Test Cross Origin Resource Sharing (OTG-CLIENT-007) - OWASP](https://www.owasp.org/index.php/Test_Cross_Origin_Resource_Sharing_(OTG-CLIENT-007))
+* [Test Cross Origin Resource Sharing (OTG-CLIENT-007) - OWASP](https://www.owasp.org/index.php/Test_Cross_Origin_Resource_Sharing_(OTG-CLIENT-007) )
 * [Authoritative guide to CORS (Cross-Origin Resource Sharing) for REST APIs | Moesif’s Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
 * [Critical Issue Opened Private Chats of Facebook Messenger Users Up to Attackers - Cynet](https://www.cynet.com/blog-facebook-originull/)
 * [The Complete Guide to CORS (In)Security](https://www.bedefended.com/papers/cors-security-guide)
