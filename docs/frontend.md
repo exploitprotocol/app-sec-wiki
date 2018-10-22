@@ -11,8 +11,6 @@
 * [Xssing Web Part - 2](http://blog.rakeshmane.com/2017/08/xssing-web-part-2.html)
 * [IronWASP - Open Source Advanced Web Security Testing Platform: Contexts and Cross-site Scripting - a brief intro](http://blog.ironwasp.org/2014/07/contexts-and-cross-site-scripting-brief.html)
 * [Why isn't my injection firing, it looks perfect! - An XSS Troubleshooting Guide](https://mechatechsec.blogspot.com/2018/05/why-isnt-my-injection-firing-it-looks.html)
-* [5 Practical Scenarios for XSS Attacks-Writing PoCs](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/)
-* [Excess XSS: A comprehensive tutorial on cross-site scripting](https://excess-xss.com/)
 
 ### Reflected XSS
 
@@ -86,7 +84,6 @@
 * [nVisium/xssValidator: This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.](https://github.com/nVisium/xssValidator)
 * [mandatoryprogrammer/xssless: An automated XSS payload generator written in python.](https://github.com/mandatoryprogrammer/xssless)
 * [stamparm/DSXS: Damn Small XSS Scanner](https://github.com/stamparm/DSXS)
-* [XSStrike](https://xsstrike.tk/)
 * [XSS Hunter](https://xsshunter.com/features)
 
 ## Content Security Policy(CSP)
