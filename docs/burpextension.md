@@ -34,6 +34,7 @@ Below are some really good extensions for Burp Suite, some of them from list bel
 * [mvetsch/JWT4B: JSON Web Tokens (JWT) support for Burp](https://github.com/mvetsch/JWT4B)
 * [SAMLRaider/SAMLRaider: SAML Raider is a Burp Suite extension for testing SAML infrastructures](https://github.com/SAMLRaider/SAMLRaider)
 * [zidekmat/graphql_beautifier: Burp Suite extension to help make Graphql request more readable](https://github.com/zidekmat/graphql_beautifier)
+* [vergl4s/signatures: Length extension attacks in Burp Suite](https://github.com/vergl4s/signatures)
 
 ## Developing Burp Extensions
 
