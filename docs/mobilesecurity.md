@@ -1,5 +1,7 @@
 For Mobile Security related resources, please visit my other project [MobileSecurityWiki.com](https://mobilesecuritywiki.com)
 
+# Android
+
 ## Forensics Tools
 
 *   [bandicoot](https://github.com/yvesalexandre/bandicoot) - A Python toolbox to analyze mobile phone metadata. It provides a complete, easy-to-use environment for data-scientist to analyze mobile phone metadata. With only a few lines of code, load your datasets, visualize the data, perform analyses, and export the results.
@@ -365,3 +367,411 @@ For Mobile Security related resources, please visit my other project [MobileSecu
 *   [PCI Mobile Payment Acceptance Security Guidelines for Developers](https://www.pcisecuritystandards.org/documents/Mobile%20Payment%20Security%20Guidelines%20v1%200.pdf)
 *   [Secure Coding in Android](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=111509535)
 *   [Android Application Secure Design/Secure Coding Guidebook](https://www.jssec.org/dl/android_securecoding_en.pdf)
+
+## Books
+
+<table>
+<thead>
+<tr>
+<th>Book</th>
+<th>Year</th>
+<th>Author</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Exploring Security Enhancements for Android </td>
+<td>2015</td>
+<td>William Confer, William Roberts</td>
+<td><a href="http://www.amazon.com/dp/1784390593/ref=cm_sw_r_tw_dp_mYx9ub048XC4Z" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>The Mobile Application Hacker's Handbook</td>
+<td>2015</td>
+<td>Dominic Chell, Tyrone Erasmus, Jon Lindsay, Shaun Colley, Ollie Whitehouse</td>
+<td><a href="http://www.amazon.com/The-Mobile-Application-Hackers-Handbook/dp/1118958500" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Hacker's Handbook</td>
+<td>2014</td>
+<td>Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva, Stephen A. Ridley, Georg Wicherski</td>
+<td><a href="http://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Security Internals</td>
+ <td>2014</td>
+<td>Nikolay Elenkov</td>
+<td><a href="http://www.nostarch.com/androidsecurity" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Malware And Analysis</td>
+<td>2014</td>
+<td>Shane Hartman, Ken Dunham, Manu Quintans, Jose Andre Morales, Tim Strazzere</td>
+<td><a href="http://www.amazon.com/Android-Malware-Analysis-Ken-Dunham/dp/1482252198" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Learning Pentesting for Android</td>
+<td>2014</td>
+<td>Aditya Gupta</td>
+<td><a href="http://www.amazon.in/Learning-Pentesting-Android-Aditya-Gupta/dp/1783288981" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Security Cookbook</td>
+<td>2013</td>
+<td>Keith Makan, Scott-Alexander-Brown</td>
+<td><a href="http://www.amazon.com/dp/1782167161/?tag=packtpubli-20" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Malware</td>
+<td>2013</td>
+<td>Xuxian Jiang, Yajin Zhou</td>
+<td><a href="http://www.amazon.com/Android-Malware-SpringerBriefs-Computer-Science/dp/1461473934/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Application Security Essentials</td>
+<td>2013</td>
+<td>Pragati Rai</td>
+<td><a href="http://www.amazon.com/Android-Application-Security-Essentials-Pragati/dp/1849515603/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Hacking Exposed Mobile Security Secrets &amp; Solutions</td>
+<td>2013</td>
+<td>Neil Bergman, Mike Stanfield, Jason Rouse, Joel Scrambay, Sarath Geethakumar, Swapnil Deshmukh, John Steven, Mike Price, Scott Matsumoto</td>
+<td><a href="http://www.amazon.com/Hacking-Exposed-Security-Secrets-Solutions/dp/0071817018/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Security: Attacks and Defenses</td>
+<td>2013</td>
+<td>Anmol Misra, Abhishek Dubey</td>
+<td><a href="http://www.amazon.com/Android-Security-Defenses-Anmol-Misra/dp/1439896461/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Phone Security and Forensics: A Practical Approach</td>
+<td>2012</td>
+<td>I.I. Androulidakis</td>
+<td><a href="http://www.amazon.com/Mobile-Phone-Security-Forensics-SpringerBriefs/dp/1461416493/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Apps Security</td>
+<td>2012</td>
+<td>Sheran Gunasekera</td>
+<td><a href="http://www.amazon.com/Android-Apps-Security-Sheran-Gunasekera/dp/1430240628" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Decompiling Android</td>
+<td>2012</td>
+<td>Godfrey Nolan</td>
+<td><a href="http://www.amazon.com/Decompiling-Android-Godfrey-Nolan/dp/1430242485/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Application Security</td>
+<td>2012</td>
+<td>Himanshu Dwivedi, Chris Clark and David Thiel</td>
+<td><a href="http://www.amazon.com/Mobile-Application-Security-Himanshu-Dwivedi/dp/0071633561/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>XDA Developers' Android Hacker's Toolkit</td>
+<td>2012</td>
+<td>Jason Tyler, Will Verduzco</td>
+<td><a href="http://www.amazon.com/XDA-Developers-Android-Hackers-Toolkit/dp/1119951380/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Forensics: Investigation, Analysis and Mobile Security for Google Android'</td>
+<td>2011</td>
+<td>Andrew Hoog</td>
+<td><a href="http://www.amazon.com/Android-Forensics-Investigation-Analysis-Security/dp/1597496510/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Application Security for the Android Platform: Processes, Permissions, and Other Safeguards</td>
+<td>2011</td>
+<td>Jeff Six</td>
+<td><a href="http://www.amazon.com/Application-Security-Android-Platform-Permissions/dp/1449315070/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Embedded Java Security: Security for Mobile Devices</td>
+<td>2010</td>
+<td>Mourad Debbabi, Mohamed Saleh, Chamseddine Talhi and Sami Zhioua</td>
+<td><a href="http://www.amazon.com/Embedded-Java-Security-Mobile-Devices/dp/1849966230/" target="_blank">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+## Android Security Research Papers
+
+*   [The Grey Matter of Securing Android Applications](https://dl.packetstormsecurity.net/papers/general/The_Grey_Matter_of_Securing_Android_Applications_v1.0.pdf)
+*   [Analysis of Secure Key Storage Solutions on Android](https://www.cs.ru.nl/E.Poll/papers/AndroidSecureStorage.pdf)
+*   [ATTACKING THE LINUX PRNG ON ANDROID](https://www.usenix.org/system/files/conference/woot14/woot14-kaplan.pdf)
+*   [Android OEM's applications (in)security and backdoors without permission](http://www.quarkslab.com/dl/Android-OEM-applications-insecurity-and-backdoors-without-permission.pdf)
+*   [Attacks on Android Clipboard](http://www.cis.syr.edu/%7Ewedu/Research/paper/clipboard_attack_dimva2014.pdf)
+*   [A Study of Android Application Security](http://www.cs.rice.edu/%7Esc40/pubs/enck-sec11.pdf)
+*   [Attacks on Webview in the Android System](http://www.cis.syr.edu/%7Ewedu/Research/paper/webview_acsac2011.pdf)
+*   [Gues who's is Texting you?Evaluating Security of Smartphone Messaging Applications](https://www.sba-research.org/wp-content/uploads/publications/ndss2012_final.pdf)
+*   [Evaluations of Security Solutions for Android Systems](http://arxiv.org/ftp/arxiv/papers/1502/1502.04870.pdf)
+*   [Why Eve and Mallory Love Android: An Analysis of Android SSL (In)Security](http://www2.dcsec.uni-hannover.de/files/android/p50-fahl.pdf)
+*   [The Impact of Vendor Customizations on Android Security](https://www.cs.ncsu.edu/faculty/jiang/pubs/CCS13.pdf)
+*   [The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations](http://www.cs.indiana.edu/%7Ezhou/files/sp14_zhou.pdf)
+*   [An Empirical Study of Cryptographic Misuse in Android Applications](http://www.cs.ucsb.edu/%7Echris/research/doc/ccs13_cryptolint.pdf)
+*   [Android Permissions:User Attention, Comprehension, and Behavior](http://www.guanotronic.com/%7Eserge/papers/soups12-android.pdf)
+*   [AppsPlayground: Automatic Security Analysis of Smartphone Applications](http://www.cs.northwestern.edu/%7Eychen/Papers/AppsPlayground.pdf)
+*   [Understanding and Improving App Installation Security Mechanisms through Empirical Analysis of Android](http://users.encs.concordia.ca/%7Eclark/papers/2012_spsm.pdf)
+*   [Android Malware Situation](https://www.incibe.es/extfrontinteco/img/File/intecocert/EstudiosInformes/android_malware_situation.pdf)
+*   [PowerSpy: Location Tracking using Mobile Device Power Analysis](http://arxiv.org/pdf/1502.03182v2)
+*   [EdgeMiner: Automatically Detecting Implicit Control Flow Transitions through the Android Framework](http://yinzhicao.org/EdgeMiner/2015_ndss_edgeminer.pdf)
+*   [Detecting Passive Content Leaks and Pollution in Android Applications](http://www.yajin.org/papers/ndss13_contentscope.pdf)
+*   [DIVILAR: Diversifying Intermediate Language for Anti-Repackaging on Android Platform](http://www.yajin.org/papers/codaspy14_divilar.pdf)
+*   [RiskRanker: Scalable and Accurate Zero-day Android Malware Detection](http://www.csc.ncsu.edu/faculty/jiang/pubs/MOBISYS12.pdf)
+*   [DroidMOSS: Detecting Repackaged Smartphone Applications in Third-Party Android Marketplaces](http://www.csc.ncsu.edu/faculty/jiang/pubs/CODASPY12.pdf)
+*   [Dissecting Android Malware: Characterization and Evolution](http://www.yajin.org/papers/oakland12_sok.pdf)
+*   [Hey, You, Get off of My Market: Detecting Malicious Apps in Official and Alternative Android Markets](http://www.csc.ncsu.edu/faculty/jiang/pubs/NDSS12_DROIDRANGER.pdf)
+*   [Systematic Detection of Capability Leaks in Stock Android Smartphones](http://www.csc.ncsu.edu/faculty/jiang/pubs/NDSS12_WOODPECKER.pdf)
+*   [Fast, Scalable Detection of “Piggybacked” Mobile Applications](http://www.csc.ncsu.edu/faculty/jiang/pubs/CODASPY13.pdf)
+*   [Leaving our ZIP undone: how to abuse ZIP to deliver malware apps](https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Panakkal.pdf)
+*   [Forensic Analysis On Android: A Practical Case](https://www.sans.org/reading-room/whitepapers/mobile/forensic-analysis-android-practical-case-36317)
+*   [A Machine Learning Approach to Android Malware Detection](http://www.utdallas.edu/~lkhan/papers/06298824.pdf)
+*   [Cross Site Scripting Attacks on Android Webview](http://arxiv.org/ftp/arxiv/papers/1304/1304.7451.pdf)
+*   [Autonomous smartphone apps: self-compilation, mutation, and viral spreading](http://arxiv.org/abs/1511.00444)
+*   [BareDroid: Large-Scale Analysis of Android Apps on Real Devices](http://cs.ucsb.edu/~yanick/publications/2015_acsac_baredroid.pdf)
+
+
+## Security Overview
+
+* [Security Enhancements in Android 9](https://source.android.com/devices/tech/security/enhancements/enhancements9.html)
+* [Security Enhancements in Android 8.0](https://source.android.com/devices/tech/security/enhancements/enhancements80.html)
+* [Security Enhancements in Android 7.0](https://source.android.com/devices/tech/security/enhancements/enhancements70.html)
+* [Security Enhancements in Android 6.0](https://source.android.com/devices/tech/security/enhancements/enhancements60.html)
+* [Security Enhancements in Android 5.0](https://source.android.com/devices/tech/security/enhancements/enhancements50.html)
+* [Security Enhancements in Android 4.4](https://source.android.com/devices/tech/security/enhancements/enhancements44.html)
+* [Security Enhancements in Android 4.3](https://source.android.com/devices/tech/security/enhancements/enhancements43.html)
+* [Security Enhancements in Android 4.2](https://source.android.com/devices/tech/security/enhancements/enhancements42.html)
+* [Security Enhancements in Android 1.5 through Android 4.1](https://source.android.com/devices/tech/security/enhancements/enhancements41.html)
+* [Android Security Enhancements](https://androidtamer.com/android-security-enhancements/)
+* [Android Browsers Static Security Analysis](http://opensecurity.in/research/security-analysis-of-android-browsers.html)
+
+
+# iOS
+
+## Disassemblers Tools
+
+*   [Class Dump Z](https://code.google.com/p/networkpx/wiki/class_dump_z) - Extracting class interface for Objective-C version 2 ABI.
+    
+*   [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)\- IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger that offers so many features it is hard to describe them all.
+    
+*   [HopperApp](http://hopperapp.com/) - Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, decompile and debug your 32/64bits Intel Mac, Linux, Windows and iOS executables!
+    
+*   [otool](http://www.unix.com/man-page/osx/1/otool/) - The otool command displays specified parts of object files or libraries. It can also disassemble
+    
+*   [strings](http://unixhelp.ed.ac.uk/CGI/man-cgi?strings) - strings is a simple utility that will print all the strings in a given binary.
+    
+*   [nm](http://unixhelp.ed.ac.uk/CGI/man-cgi?nm) - nm is a utility that displays the symbol table of a given binary.
+    
+
+## iOS Forensic Tools
+
+*   [iPhone Analyzer](https://sourceforge.net/projects/iphoneanalyzer/) - iPhone Analzyer allows you to forensically examine or recover date from in iOS device.
+    
+*   [iPhone Backup Analyzer](http://tools.kali.org/forensics/iphone-backup-analyzer)
+*   [iPhone Backup Browser](https://code.google.com/p/iphonebackupbrowser/)
+*   [Keychain Dumper](https://github.com/ptoomey3/Keychain-Dumper) - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
+    
+*   [Mac-robber](http://www.sleuthkit.org/mac-robber/index.php) - mac-robber is a digital investigation tool that collects data from allocated files in a mounted file system. This is useful during incident response when analyzing a live system or when analyzing a dead system in a lab.
+    
+*   [Mobile Sync Browser](http://mobilesyncbrowser.com/) - Access your iOS backups
+    
+*   [Mobilyze](https://www.blackbagtech.com/software-products/mobilyze.html) - Mobilyze is a mobile data triage tool, designed to give users immediate access to data from iOS and Android devices.
+    
+*   [Oxygen Forensics Suite](http://www.oxygen-forensic.com/en/)
+*   [Paraben Device Seizure](https://www.paraben.com/device-seizure.html)
+*   [SleuthKit](http://www.sleuthkit.org/sleuthkit/) - The Sleuth Kit® is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
+    
+
+## iOS Dynamic Analysis Tools
+*   [Appmon](https://dpnishant.github.io/appmon/) - AppMon is an automated framework for monitoring and tampering system API calls of native apps on iOS, Mac OS X and Android apps (upcoming). You may call it the GreaseMonkey for native mobile apps.
+    
+*   [cycript](http://www.cycript.org/) - Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.
+    
+*   [Clutch](https://github.com/KJCracks/Clutch) - Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research.
+    
+*   [DIOS](https://github.com/DiOS-Analysis/DiOS") - DiOS is a practical system to perform automated dynamic privacy analysis of iOS apps. DiOS provides a highly scalable and fully automated solution to schedule apps from the official Apple App Store for privacy analysis to iOS devices. While apps are automatically executed, user interaction is simulated using random and smart execution strategies, and sensitive API calls as well as network connections are tracked.
+    
+*   [iNalyzer](https://appsec-labs.com/iNalyzer/) - AppSec Labs iNalyzer is a framework for manipulating iOS applications, tampering with parameters and methods; no sources needed! AppSec Labs iNalyzer targets closed applications, turning a painful Black Box into an automatic Gray-Box effort.
+    
+*   [idb](https://github.com/dmayer/idb) - idb is a tool to simplify some common tasks for iOS pentesting and research
+    
+*   [iOS SSL Kill Switch](https://github.com/iSECPartners/ios-ssl-kill-switch) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS Apps
+    
+*   [iOS SSL Kill Switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps
+    
+*   [Introspy-iOS](https://github.com/iSECPartners/Introspy-iOS) - Blackbox tool to help understand what an iOS application is doing at runtime and assist in the identification of potential security issues.
+    
+*   [needle](https://github.com/mwrlabs/needle) - An open source, modular framework to streamline the process of conducting security assessments of iOS apps.
+    
+*   [snoop-it](https://code.google.com/p/snoop-it/) - A tool to assist security assessments and dynamic analysis of iOS Apps
+    
+*   [XSecurity](https://github.com/XSecurity/Xsecurity) - A security plug-in in Xcode plus a Clang Static Analyzer Checkers for iOS application development. This plug-in aims to reduce the vulnerability made during development by detecting the vulnerability as it is being created.
+    
+
+
+## iOS Reverse Engineering Tools
+
+*   [Flex-2](http://repo.xarold.com/) - Flex - 2 gives you the power to modify the apps and change their behaviour without having to know the intricacies of iOS development.
+    
+*   [iSpy](https://github.com/BishopFox/iSpy) - A reverse engineering framework for iOS
+    
+*   [iRET](https://github.com/S3Jensen/iRET) - The iOS Reverse Engineering Toolkit is a toolkit designed to automate many of the common tasks associated with iOS penetration testing.
+    
+*   [cycript](http://www.cycript.org/) - Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.
+    
+*   [Logify](https://github.com/DHowett/theos/blob/master/bin/logify.pl) - Logify takes an Objective-C header file containing a class interface and generates a Logos file hooking all methods in the given class, and for each hook logging the call of the method (with parameters) to the syslog
+    
+
+
+## iOS Tutorials and Guides
+
+*   [iOS 8 Hardening Configuration Guide by Australian Government](http://www.asd.gov.au/publications/iOS8_Hardening_Guide.pdf)
+
+*   [iOS Applications Security Series](http://resources.infosecinstitute.com/author/prateek/)
+
+## iOS Best Practices
+
+*   [iMAS helps developers encrypt app data, prompt for passwords, prevent app tampering, and enforce enterprise policies on iOS devices.](https://project-imas.github.io/index.html)
+*   [iOS Secure Coding Guide](https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html#//apple_ref/doc/uid/TP40002477-SW1)
+*   [iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
+*   [NIST Cybersecurity Practice Guide : “Mobile Device Security: Cloud & Hybrid Builds”](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security)
+
+<table>
+<thead>
+<tr>
+<th>Book</th>
+<th>Year</th>
+<th>Author</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hacking and Securing iOS Applications</td>
+<td>2012</td>
+<td>Jonathan Zdziarski</td>
+<td><a href="http://www.amazon.com/Hacking-Securing-iOS-Applications-Hijacking/dp/1449318746" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>iOS App Reverse Engineering</td>
+<td>2015</td>
+<td>iOSRE - <a href="http://iosre.com/" target="_blank">Website</a></td>
+<td><a href="https://github.com/iosre/iOSAppReverseEngineering" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>iOS Application Security: The Definitive Guide for Hackers and Developers</td>
+<td>2015</td>
+<td>David Theil</td>
+<td><a href="http://www.amazon.com/iOS-Application-Security-Definitive-Developers/dp/159327601X" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>iOS Hackers handbook</td>
+<td>2012</td>
+<td>Charlie Miller, Dion Blazakis, Dino Diazovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philipp Weinmann</td>
+<td><a href="http://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>iPhone and iOS Forensics</td>
+<td>2011</td>
+<td>Andrew Hoog, Katie Strzempka</td>
+<td><a href="http://www.amazon.com/iPhone-iOS-Forensics-Investigation-Analysis/dp/1597496596" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Learning iOS Forensics</td>
+<td>2015</td>
+<td>Mattia Epifani, Pasquale Stirparo</td>
+<td><a href="https://www.packtpub.com/networking-and-servers/learning-ios-forensics" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Learning iOS Pentesting</td>
+<td>2016</td>
+<td>Swaroop Yermalkar</td>
+<td><a href="https://www.packtpub.com/networking-and-servers/learning-ios-penetration-testing" target="_blank">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+# Windows
+
+
+Windows Tools
+
+*   [XAPSpy](https://github.com/sensepost/XAPSpy) - runtime analysis of windows phone 7 applications
+    
+*   [XapSpyAnalysis](https://xapspyanalysis.codeplex.com/) - XapSpyAnalysis is an extension to Behrang Fouladis excellent XapSpy tool. XapSpy enables you to debug method calls and variables for Windows Phone 7 XAP packages on the device emulator.
+    
+*   [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler.
+    
+*   [Tangerine](https://github.com/andreycha/tangerine) - Tool for inspecting Windows Phone applications
+    
+*   [xaml spy](http://xamlspy.com/) - XAML Spy provides a real-time view of your app's state. Examine and modify the properties of any element on-the-fly and see the changes reflected immediately in the running app.
+    
+*   [Dotnet IL Editor](http://sourceforge.net/projects/dile/) - Dotnet IL Editor (DILE) allows disassembling and debugging .NET 1.0/1.1/2.0/3.0/3.5/4.0 applications without source code or .pdb files. It can debug even itself or the assemblies of the .NET Framework on IL level.
+    
+*   [Reflexil](http://reflexil.net/) - Reflexil is an assembly editor and runs as a plug-in for Red Gate's Reflector, ILSpy and Telerik's JustDecompile. Reflexil is using Mono.Cecil, written by Jb Evain and is able to manipulate IL code and save the modified assemblies to disk. Reflexil also supports C#/VB.NET code injection.
+    
+*   [WP8 Native Access Webserver](https://wp8webserver.codeplex.com/) - Want to access files and registry data on a running WP8 device from your PC? This is the tool for that.
+    
+*   [Binscope Binary Analyzer](http://www.microsoft.com/en-in/download/details.aspx?id=11910) - BinScope is a Microsoft verification tool that analyzes binaries on a project-wide level to ensure that they have been built in compliance with Microsoft’s Security Development Lifecycle (SDL) requirements and recommendations.
+    
+*   [Phate](https://github.com/gebucholz/Phate) - A network server and library for exploring Windows Phone 8
+
+<table>
+<thead>
+<tr>
+<th>Presentation</th>
+<th>Conference</th>
+<th>Year</th>
+<th>Author</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inspection of Windows Phone applications</td>
+<td>BlackHat Abu Dhabi</td>
+<td>2012</td>
+<td>Dmitriy Evdokimov, Andrey Chasovskikh</td>
+<td><a href="https://media.blackhat.com/ad-12/Evdokimov/bh-ad-12-inspection-of-windows-evdokimov-slides.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>(UPCOMING) The Windows Phone Freakshow</td>
+<td>Hack inthe Box 2015 Amsterdam</td>
+<td>2015</td>
+<td>Luca De Fulgentis</td>
+<td><a href="http://conference.hitb.org/hitbsecconf2015ams/sessions/windows-phone-freakshow/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Windows Phone 8 application security</td>
+<td>Hack in Paris</td>
+<td>2013</td>
+<td>Andrey Chasovskikh, Dmitry Evdokimov</td>
+<td><a href="http://erpscan.com/wp-content/uploads/2013/06/Windows-Phone-8-application-security-slides.pdf" target="_blank">Link</a><a href="https://www.youtube.com/watch?v=T--lbn2oGJc" target="_blank">Video</a></td>
+</tr>
+</tbody>
+</table>
+
+## Windows Tutorials
+
+*   [Windows Mobile Application Security Testing - Part 1](http://anandsecurity.blogspot.in/2016/02/windows-mobile-application-security.html?spref=tw)
+    
+*   [Windows Mobile Application Security Testing - Part 3](http://anandsecurity.blogspot.in/2016/02/windows-mobile-application-security_22.html)
+    
+*   [Windows Mobile Application Security Testing - Part 3](http://anandsecurity.blogspot.in/2016/02/windows-mobile-application-security_95.html)
+    
+*   [Windows Mobile Application Security Testing - Part 4](http://anandsecurity.blogspot.in/2016/02/windows-mobile-application-security_24.html?spref=tw)
+    
+*   [Windows Mobile Application Security Testing - Part 5](http://anandsecurity.blogspot.in/2016/02/windows-mobile-application-security_29.html?spref=tw)
+    
+
+
+## Windows Whitepapers
+
+*   [Windows Phone 8 Application Security Whitepaper](https://labs.mwrinfosecurity.com/system/assets/651/original/mwri_wp8_appsec-whitepaper-syscan_2014-03-30.pdf) - March 2014
+    
+*   [Windows Phone 8 Security Guide](http://i.nokia.com/blob/view/-/3499852/data/1/-/Security.pdf) - September 2013
+    
+*   [Windows Phone 8.1 Security Overview](http://download.microsoft.com/download/B/9/A/B9A00269-28D5-4ACA-9E8E-E2E722B35A7D/Windows-Phone-8-1-Security-Overview.pdf) - April 2014
