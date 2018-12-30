@@ -1,7 +1,4 @@
-For Mobile Security related resources, please visit my other project [MobileSecurityWiki.com](https://mobilesecuritywiki.com)
-
 # Android
-
 ## Forensics Tools
 
 *   [bandicoot](https://github.com/yvesalexandre/bandicoot) - A Python toolbox to analyze mobile phone metadata. It provides a complete, easy-to-use environment for data-scientist to analyze mobile phone metadata. With only a few lines of code, load your datasets, visualize the data, perform analyses, and export the results.
@@ -533,6 +530,641 @@ For Mobile Security related resources, please visit my other project [MobileSecu
 *   [Autonomous smartphone apps: self-compilation, mutation, and viral spreading](http://arxiv.org/abs/1511.00444)
 *   [BareDroid: Large-Scale Analysis of Android Apps on Real Devices](http://cs.ucsb.edu/~yanick/publications/2015_acsac_baredroid.pdf)
 
+## Presentations
+
+<table>
+<thead>
+<tr>
+<th>Presentation</th>
+<th>Conference</th>
+<th>Year</th>
+<th>Author</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Solving the Mobile Security Gap</td>
+<td>SaintCon</td>
+<td>2015</td>
+<td>Franke Martinez</td>
+<td><a href="https://www.youtube.com/watch?v=fR5gxTz-0rY" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Device Security in the Enterprise</td>
+<td>SaintCon</td>
+<td>2015</td>
+<td>Dmitry Dessiatnikov</td>
+<td><a href="https://www.youtube.com/watch?v=L5CFByup8Zg" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Improving mobile security with forensics, app analysis and big data</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Andrew Hoog</td>
+<td><a href="https://www.youtube.com/watch?v=4vyUwurATRA&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=1" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android security architecture</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Nikolay Elenkov</td>
+<td><a href="https://www.youtube.com/watch?v=3asW-nBU-JU&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=2" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Lessons from the trenches: An inside look at Android security</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Nick Kralevich</td>
+<td><a href="https://www.youtube.com/watch?v=e1cmDQrw6QQ&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=3" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Secure copy protection for mobile apps</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Nils T. Kannengiesser</td>
+<td><a href="https://www.youtube.com/watch?v=rSH6dnUTDZo&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=4" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Human factors in anonymous mobile communication</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Svenja Schröder</td>
+<td><a href="https://www.youtube.com/watch?v=EqDiWGC4lP8&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=5" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Continuous risk-aware multi-modal authentication</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Rainhard D. Findling and Muhammad Muaaz</td>
+<td><a href="https://www.youtube.com/watch?v=c9uYvoSfy38&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=6" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Assessing Android applications using command-line fu</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Pau Oliva Fora</td>
+<td><a href="https://www.youtube.com/watch?v=fN00kYVRhTU&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=7" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>The quest for usable security</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>N. Asokan</td>
+<td><a href="https://www.youtube.com/watch?v=gVPkFV5Zg2c&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=8" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android and trusted execution environments</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Jan-Erik Ekberg</td>
+<td><a href="https://www.youtube.com/watch?v=5542lEk3OAM&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=9" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>An infestation of dragons: Exploring vulnerabilities in ...</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Josh Thomas and Charles Holmes</td>
+<td><a href="https://www.youtube.com/watch?v=vxNGgOR-iVM&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=10" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Secure elements for you and me: A model for programmable secure ...</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Alexandra Dmitrienko</td>
+<td><a href="https://www.youtube.com/watch?v=zpbTx2D7bYU&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=11" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile threats incident handling</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Yonas Leguesse</td>
+<td><a href="https://www.youtube.com/watch?v=4MImyCkvjPI&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=12" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>How Google killed two-factor authentication</td>
+<td>Android Security Symposium</td>
+<td>2015</td>
+<td>Victor van der Veen</td>
+<td><a href="https://www.youtube.com/watch?v=7WiE0cpsxv4&list=PL61IkVbNYniVIjf20ehmV-mtJrbc7_2WC&index=13" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Application Reverse Engineering: Under the Hood</td>
+<td>Derbycon</td>
+<td>2015</td>
+<td>Drew Branch Billy McLaughlin</td>
+<td><a href="https://www.youtube.com/watch?v=uItW6lPsiDg" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Unbillable: Exploiting Android In App Purchases</td>
+<td>Derbycon</td>
+<td>2015</td>
+<td>Alfredo Ramirez</td>
+<td><a href="https://www.youtube.com/watch?v=e9LJV3fuYhI" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>The problems with JNI obfuscation in the Android Operating System</td>
+<td>Derbycon</td>
+<td>2015</td>
+<td>Rick Ramgattie</td>
+<td><a href="https://www.youtube.com/watch?v=YG0Q3DCAcqo" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Offensive &amp; Defensive Android Reverse Engineering</td>
+<td>Defcon</td>
+<td>2015</td>
+<td>Jon Sawyer, Tim Strazzere, Caleb Fenton</td>
+<td><a href="https://github.com/rednaga/training/tree/master/DEFCON23" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Fuzzing Android System Services by Binder Call to Escalate Privilege</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Guang Gong</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#fuzzing-android-system-services-by-binder-call-to-escalate-privilege" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Fingerprints on Mobile Devices: Abusing and Leaking</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Yulong Zhang &amp; Tao Wei</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#fingerprints-on-mobile-devices-abusing-and-leaking" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Ah! Universal Android Rooting is Back</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Wen Xu</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#ah-universal-android-rooting-is-back" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Attacking Your Trusted Core: Exploiting Trustzone on Android</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Di Shen</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#attacking-your-trusted-core-exploiting-trustzone-on-android" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>This is DeepERENT:Tracking App Behaviors with Phone for Evasive Android Malware</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Y.Park &amp; J.Choi</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#this-is-deeperent-tracking-app-behaviors-with-nothing-changed-phone-for-evasive-android-malware" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Point of Scam: Attacking the Square Reader</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Alexandrea Mellen &amp; John Moore &amp; Artem Losev</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#mobile-point-of-scam-attacking-the-square-reader" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Commercial Mobile Spyware - Detecting the Undetectable</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Joshua Dalman &amp; Valerie Hantke</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#commercial-mobile-spyware-detecting-the-undetectable" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Faux Disk Encryption: Realities of Secure Storage on Mobile Devices</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Daniel Mayer &amp; Drew Suarez</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#faux-disk-encryption-realities-of-secure-storage-on-mobile-devices" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Stagefright: Scary Code in the Heart of Android</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Joshua J. Drake</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#stagefright-scary-code-in-the-heart-of-android" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Security State of the Union</td>
+<td>Blackhat USA</td>
+<td>2015</td>
+<td>Adrian Ludwig</td>
+<td><a href="https://www.blackhat.com/us-15/briefings.html#android-security-state-of-the-union" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Is my app secure?</td>
+<td>Bsides Lisbon</td>
+ <td>2015</td>
+<td>Cláudio André, Herman Duarte</td>
+<td><a href="http://www.slideshare.net/clviper/is-my-app-secure-51493019" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>The nightmare behind the cross platform mobile apps dream</td>
+<td>Blackhat Asia</td>
+<td>2015</td>
+<td>Marco Grassi, Sebastian Guerrero</td>
+<td><a href="https://speakerdeck.com/marcograss/the-nightmare-behind-the-cross-platform-mobile-apps-dream" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>DABid: The Powerful Interactive Android Debugger for Android Malware Analysis</td>
+<td>Blackhat Asia </td>
+<td>2015</td>
+<td></td>
+<td><a href="https://www.blackhat.com/docs/asia-15/materials/asia-15-Jung-DABiD-The-Powerful-Interactive-Android-Debugger-For-Android-Malware-Analysis.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Resurrecting The READ_LOGS Permission On Samsung Devices </td>
+<td>Blackhat Asia</td>
+<td>2015</td>
+<td>Ryan Johnson, Angelos Stavrou</td>
+<td><a href="https://www.blackhat.com/docs/asia-15/materials/asia-15-Johnson-Resurrecting-The-READ-LOGS-Permission-On-Samsung-Devices.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>We Can still Crack you</td>
+<td>Blackhat Asia</td>
+<td>2015</td>
+<td></td>
+<td><a href="https://www.blackhat.com/docs/asia-15/materials/asia-15-Park-We-Can-Still-Crack-You-General-Unpacking-Method-For-Android-Packer-No-Root.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Relaying contactless EMV transactions with off-the-self hardware</td>
+<td>Blackhat Asia</td>
+<td>2015</td>
+<td></td>
+<td><a href="https://www.blackhat.com/docs/asia-15/materials/asia-15-VandenBreekel-Relaying-EMV-Contactless-Transactions-Using-Off-The-Shelf-Android-Devices.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Hiding behind ART</td>
+<td>Blackhat Asia</td>
+<td>2015</td>
+<td>Paul Sebanal</td>
+<td><a href="https://www.blackhat.com/docs/asia-15/materials/asia-15-Sabanal-Hiding-Behind-ART-wp.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Watch you lookin’ at? </td>
+<td>Securi-Tay</td>
+<td>2015</td>
+<td>Jahmel Harris & Owen Evans</td>
+<td><a href="https://labs.mwrinfosecurity.com/system/assets/886/original/WatchYouLookinAt_SecuriTay2015_presentation_web.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>On Relaying NFC Payment Transactions using Android devices</td>
+<td>RootedCon </td>
+<td>2015</td>
+<td>Ricardo J. Rodríguez y & José Vila </td>
+<td><a href="http://www.slideshare.net/cgvwzq/on-relaying-nfc-payment-transactions-using-android-devices" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android: Back to the Future, Two or Too</td>
+<td>RootedCon</td>
+<td>2015</td>
+<td>Raúl Siles</td>
+<td><a href="http://www.dinosec.com/docs/Android-Back_to_the_Future_Too_Rooted2015_RaulSiles-DinoSec_v1.0.pdf" target="_blank">Link</a></td>
+ </tr>
+<tr>
+<td>Understanding IMSI Privacy </td>
+<td>BlackHat USA</td>
+<td>2015</td>
+<td> Ravishankar Borgaonkar & Swapnil Udar</td>
+<td><a href="https://www.isti.tu-berlin.de/fileadmin/fg214/ravi/Darshak-bh14.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>Android FakeID Vulnerability Wwalkthrough</td>
+<td>BlackHat USA </td>
+<td>2015</td>
+<td>Jeff Forrista</td>
+<td><a href="https://www.blackhat.com/docs/us-14/materials/us-14-Forristal-Android-FakeID-Vulnerability-Walkthrough.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>Reflection On Trusting Trustzone</td>
+<td>BlackHat USA</td>
+<td>2015</td>
+<td>Dan Rosenberg</td>
+<td><a href="https://www.blackhat.com/docs/us-14/materials/us-14-Rosenberg-Reflections-on-Trusting-TrustZone.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>Researching Android Device Security With The Help Of A Droid Army</td>
+<td>BlackHat USA</td>
+<td>2015</td>
+<td>Joshua Drake</td>
+<td><a href="https://www.blackhat.com/docs/us-14/materials/us-14-Drake-Researching-Android-Device-Security-With-The-Help-Of-A-Droid-Army.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>MyY Google Glass Sees Your Passwords!</td>
+<td>BlackHat USA</td>
+<td>2015</td>
+<td>Xinwen Fu & Qinggang Yue & Zhen Ling</td>
+<td><a href="https://www.blackhat.com/docs/us-14/materials/us-14-Fu-My-Google-Glass-Sees-Your-Passwords.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>Cellular Exploitation On A Global Scale: The Rise And Fall Of The Ccontrol Protocol </td>
+<td>BlackHat USA</td>
+<td>2015</td>
+<td>Mathew Solnik & Marc Blanchou</td>
+<td><a href="https://www.blackhat.com/docs/us-14/materials/us-14-Solnik-Cellular-Exploitation-On-A-Global-Scale-The-Rise-And-Fall-Of-The-Control-Protocol.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android FakeId Vulnerability</td>
+<td>Blackhat</td>
+<td>2014</td>
+<td>Jeff Forristal</td>
+<td><a href="https://bluebox.com/technical/blackhat-fake-id-talk-material-and-follow-up/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Analysis Kung Fu, Santoku Style</td>
+<td>RSA Conference</td>
+<td>2014</td>
+<td>Andrew Hoog & Sebastián Guerrero</td>
+<td><a href="http://www.rsaconference.com/writable/presentations/file_upload/anf-w03-mobile-analysis-kung-fu-santoku-style_v2.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Beginners Guide to Reverse Engineering Android Apps</td>
+<td>RSA Conference</td>
+<td>2014</td>
+<td>Pau Oliva Fora</td>
+<td><a href="http://www.rsaconference.com/writable/presentations/file_upload/stu-w02b-beginners-guide-to-reverse-engineering-android-apps.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Touchlogger on iOS and Android</td>
+<td>RSA Conference</td>
+<td>2014</td>
+<td>Neal Hindocha & Nathan McCauley</td>
+<td><a href="http://www.rsaconference.com/writable/presentations/file_upload/mbs-w01-touchlogger-on-ios-and-android-v2.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Predatory Hacking of Mobile: Real Demos </td>
+<td>RSA Conference</td>
+<td>2014</td>
+<td>Jeff Forristal</td>
+<td><a href="http://www.rsaconference.com/writable/presentations/file_upload/mbs-w03-predatory-hacking-of-mobile-real-demos-v2.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Reverse Engineering, Pentesting and Hardening of Android Apps</td>
+<td>DroidCon</td>
+<td>2014</td>
+<td>Marco Grassi</td>
+<td><a href="https://speakerd.s3.amazonaws.com/presentations/25bc54e0728001318b20063debaef239/DroidconIT2014.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>DREBIN: Effective and Explainable Detection of Android Malware in Your Pocket</td>
+<td>NDSS</td>
+<td>2014</td>
+<td>Daniel Arp, Michael Spreitzenbarth, Malte Hubner, Hugo Gascon & Konrad Rieck</td>
+<td><a href="http://filepool.informatik.uni-goettingen.de/publication/sec//2014-ndss.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Execute This! Analyzing Unsafe and Malicious Dynamic Code Loading in Android Applications </td>
+<td>NDSS</td>
+<td>2014</td>
+<td>Sebastian Poeplau, Yanick Fratantonio, Antonio Bianchi, Christopher Kruegel, Giovanni Vigna</td>
+<td><a href="https://anonymous-proxy-servers.net/paper/android-remote-code-execution.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>AppSealer: Automatic Generation of Vulnerability-Specific Patches for Preventing Component Hijacking Attacks in Android Applications</td>
+<td>NDSS</td>
+<td>2014</td>
+<td>Mu Zhang, Heng Yin</td>
+<td><a href="http://sycurelab.ecs.syr.edu/%7Emu/AppSealer-ndss14.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>SMV-Hunter: Large Scale, Automated Detection of SSL/TLS Man-in-the-Middle Vulnerabilities in Android Apps</td>
+<td>NDSS</td>
+<td>2014</td>
+<td>David Sounthiraraj, Justin Sahs, Zhiqiang Lin, Latifur Khan, Garrett Greenwood</td>
+<td><a href="https://www.utdallas.edu/%7Ezxl111930/file/NDSS14b.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>AirBag: Boosting Smartphone Resistance to Malware Infection</td>
+<td>NDSS</td>
+<td>2014</td>
+<td>Chiachih Wu, Yajin Zhou, Kunal Patel, Zhenkai Liang, Xuxian Jiang</td>
+<td><a href="http://yajin.org/papers/ndss14_airbag.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Pre-installed Android application poisoning</td>
+<td>AppSecAsiaPac</td>
+<td>2014</td>
+<td>Yoshitaka Kato</td>
+<td><a href="https://speakerdeck.com/owaspjapan/pre-installed-android-application-poisoning-number-appsecapac2014" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware</td>
+<td>EuroSec</td>
+<td>2014</td>
+ <td>Thanasis Petsas, Giannis Voyatzis, Elias Athanasopoulos, Sotiris Ioannidis, Michalis Polychronakis </td>
+<td><a href="http://www.syssec-project.eu/m/documents/eurosec14/RATVM.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Pentesting Android Applications</td>
+<td>Confraria Segurança PT</td>
+<td>2014</td>
+<td>Cláudio André</td>
+<td><a href="http://www.slideshare.net/clviper/pentesting-android-applications" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Tricks for image handling in Android</td>
+<td>DroidCon Berlin</td>
+<td>2014</td>
+<td>Tyrone Nicholas</td>
+<td><a href="http://www.slideshare.net/tyronenicholas/devoxx-images-android" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Post-Mortem Memory Analysis of Cold-Booted Android Devices</td>
+<td>IMF</td>
+<td>2014</td>
+<td>Christian Hilgers, Holger Macht, Tilo Muller, Michael Spreitzenbarth</td>
+<td><a href="http://www.homac.de/publications/Post-Mortem-Memory-Analysis-of-Cold-Booted-Android-Devices-slides.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Execute this! Looking into code-loading techniques on Android</td>
+<td>Honeynet Project Workshop </td>
+<td>2014</td>
+<td>Sebastian Poeplau, Yanick Fratantonio, Antonio Bianchi, Christopher Kruegel, Giovanni Vigna</td>
+<td><a href="http://warsaw2014.honeynet.org/slides/honeynet2014-day1-Sebastian.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting the Bells and Whistles: Uncovering OEM Vulnerabilities in Android</td>
+<td>CarolinaCon</td>
+<td>2014</td>
+<td>Jake Valletta</td>
+<td><a href="http://thecobraden.com/uploads/Valletta%20-%20CarolinaCon%20X%20-%20Exploiting%20the%20Bells%20and%20Whistles.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Enter Sandbox: Android Sandbox Comparison</td>
+<td>MOBILE SECURITY TECHNOLOGIES</td>
+<td>2014</td>
+<td>Sebastian Neuner, Victor van der Veen, Martina Lindorfer, Markus Huber, Georg Merzdovnik, Martin Mulazzani and Edgar Weipp</td>
+<td><a href="http://mostconf.org/2014/slides/s3p1-slides.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>A Systematic Security Evaluation of Android's Multi-User Framework</td>
+<td>MOBILE SECURITY TECHNOLOGIES</td>
+<td>2014</td>
+<td>Paul Ratazzi, Yousra Aafer, Amit Ahlawat, Hao Hao, Yifei Wang and Wenliang Du</td>
+<td><a href="http://mostconf.org/2014/slides/s3p3-slides.pptx" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Sprobes: Enforcing Kernel Code Integrity on the TrustZone Architecture</td>
+<td>MOBILE SECURITY TECHNOLOGIES</td>
+<td>2014</td>
+<td>Xinyang Ge, Hayawardh Vijayakumar and Trent Jaeger</td>
+<td><a href="http://mostconf.org/2014/slides/s2p3-slides.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Packers:Separating from the pack </td>
+<td>Hacktivity</td>
+<td>2014</td>
+<td>Ruchna Nigam</td>
+<td><a href="http://www.fortiguard.com/paper/Android-Packers--Hacktivity2014/" target="_blank">Link</a></td>
+</tr>
+</tr>
+</tr>
+<tr>
+<td>ASM: A Programmable Interface for Extending Android Security</td>
+<td>23rd USENIX Security Symposium </td>
+<td>2014</td>
+<td>Stephan Heuser, Adwait Nadkarni, William Enck, Ahmad-Reza Sadeghi </td>
+<td><a href="https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-heuser.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>Peeking into Your App without Actually Seeing it: UI State Inference and Novel Android Attacks</td>
+<td>23rd USENIX Security Symposium</td>
+<td>2014</td>
+<td>Qi Alfred Chen, Zhiyun Qian, Z. Morley Mao</td>
+<td><a href="https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-chen.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>On the Feasibility of Automa3cally Generating Android Component Hijacking Exploits</td>
+<td>Hitcon</td>
+<td>2014</td>
+<td>Wu Daoyuan</td>
+<td><a href="http://hitcon.org/2014/downloads/P1_09_Daoyuan%20Wu%20-%20On%20the%20Feasibility%20of%20Automatically%20Generating%20Android%20Component%20Hijacking%20Exploits.pdf" target="_blank">Link</a></td>
+</tr>
+</tr>
+<tr>
+<td>Play Flappy Bird while you pentest Android in style</td>
+<td>Hitcon</td>
+<td>2014</td>
+<td>Chris Liu & Matthew Lionetti</td>
+<td><a href="http://hitcon.org/2014/downloads/P1_10_Chris%20Liu%20-%20Matthew%20Lionetti%20-%20TackyDroid%20Slides.pptx" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Bypassing wifi pay-walls with Android</td>
+<td>RootedCon</td>
+<td>2014</td>
+<td>Pau Oliva Fora </td>
+<td><a href="http://www.slideshare.net/rootedcon/pau-olivafora-rootedcon2014" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>A distributed approach to malware analysis</td>
+<td>BruCON 0x06</td>
+<td>2014</td>
+<td>Daan Raman</td>
+<td><a href="https://speakerdeck.com/nviso/a-distributed-approach-to-malware-analysis-brucon-0x06-daan-raman" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Enter The Snapdragon!</td>
+<td>Hacktivity</td>
+<td>2014</td>
+<td>Daniel Komaromy</td>
+<td><a href="https://www.hacktivity.com/en/downloads/archives/319/" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Android Forensics: The Joys of JTAG</td>
+<td>Ruxcon</td>
+<td>2014</td>
+<td>tty0x80</td>
+<td><a href="https://ruxcon.org.au/assets/2014/slides/tty0x80-Ruxcon%20Presentation-12th-October-2014-for-release.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>TACKYDROID: Pentesting Android Applications in Style </td>
+<td>HiTB KUL</td>
+<td>2014</td>
+<td>Chris Liu & Matthew Lionetti</td>
+<td><a href="http://conference.hitb.org/hitbsecconf2014kul/materials/D2T2%20-%20Chris%20Liu%20and%20Matthew%20Lionetti%20-%20TackyDroid.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+ <td>BREAKING “SECURE” MOBILE APPLICATIONS </td>
+<td>HiTB KUL</td>
+<td>2014</td>
+<td>Dominic Chell</td>
+<td><a href="http://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Dominic%20Chell%20-%20Breaking%20Secure%20Mobile%20Applications.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Hide Android Applications in Images</td>
+<td>BlackHat Europe</td>
+<td>2014</td>
+<td>Axelle Apvrille & Ange Albertini</td>
+<td><a href="https://www.blackhat.com/docs/eu-14/materials/eu-14-Apvrille-Hide-Android-Applications-In-Images.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>MAN IN THE BINDER: HE WHO CONTROLS IPC, CONTROLS THE DROID</td>
+<td>BlackHat Europe</td>
+<td>2014</td>
+<td>Nitay Artenstein & Idan Revivo</td>
+<td><a href="https://www.blackhat.com/docs/eu-14/materials/eu-14-Artenstein-Man-In-The-Binder-He-Who-Controls-IPC-Controls-The-Droid.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Mobile Hacking – Reverse Engineering the Android OS</td>
+<td>HackerHalted</td>
+<td>2014</td>
+<td>Tom Updegrove</td>
+<td><a href="http://www.slideshare.net/EC-Council/hacker-halted-2014-reverse-engineering-the-android-os" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Making Android's Bootable Recovery Work For You</td>
+<td>EkoParty</td>
+<td>2014</td>
+<td>Drew Suarez at EkoParty</td>
+<td><a href="http://matasano.com/research/eko2014_recovery.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>An Infestation of Dragons: Exploring Vulnerabilities in the ARM TrustZone Architecture</td>
+<td>PacSec Japan</td>
+<td>2014</td>
+<td>Josh "m0nk" Thomas, Charles Holmes & Nathan Keltner</td>
+<td><a href="https://pacsec.jp/psj14/PSJ2014_Josh_PacSec2014-v1.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Hey, we catch you - dynamic analysis of Android applications</td>
+<td>PacSec Japan</td>
+<td>2014</td>
+<td>Wenjun Hu</td>
+<td><a href="https://pacsec.jp/psj14/PSJ2014_Wenjun_Hey-%20We%20Catch%20You%20-%20Dynamic%20Analysis%20of%20Android%20Applications.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Steroids for your App Security Assessment </td>
+<td>ZeroNights</td>
+<td>2014</td>
+<td>Marco Grassi</td>
+<td><a href="http://2014.zeronights.org/assets/files/slides/grassi.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Racing with DROIDS</td>
+<td>ZeroNights</td>
+<td>2014</td>
+<td> Peter Hlavaty</td>
+<td><a href="http://2014.zeronights.org/assets/files/slides/racingwithdroids.pdf" target="_blank">Link</a></td>
+</tr>
+<tr>
+<td>Creating a kewl and simple Cheating Platform on Android</td>
+<td>DeepSec</td>
+<td>2014</td>
+<td>Milan Gabor & Danijel Grah</td>
+<td><a href="https://deepsec.net/docs/Slides/2014/Creating_a_kewl_and_simple_Cheating_Platform_on_Android_-_Milan_Gabor-Danijel_Grah.pdf" target="_blank">Link</a></td>
+ </tr>
+<tr>
+<td>Dex Education 201: Anti-Emulation</td>
+<td>HitCon</td>
+<td>2013</td>
+<td>Tim Strazzere</td>
+<td><a href="https://github.com/strazzere/anti-emulator" target="_blank">Link</a></td>
+</tr>
+</tbody>
+</table>
+
 
 ## Security Overview
 
@@ -611,7 +1243,6 @@ For Mobile Security related resources, please visit my other project [MobileSecu
 *   [XSecurity](https://github.com/XSecurity/Xsecurity) - A security plug-in in Xcode plus a Clang Static Analyzer Checkers for iOS application development. This plug-in aims to reduce the vulnerability made during development by detecting the vulnerability as it is being created.
     
 
-
 ## iOS Reverse Engineering Tools
 
 *   [Flex-2](http://repo.xarold.com/) - Flex - 2 gives you the power to modify the apps and change their behaviour without having to know the intricacies of iOS development.
@@ -625,7 +1256,6 @@ For Mobile Security related resources, please visit my other project [MobileSecu
 *   [Logify](https://github.com/DHowett/theos/blob/master/bin/logify.pl) - Logify takes an Objective-C header file containing a class interface and generates a Logos file hooking all methods in the given class, and for each hook logging the call of the method (with parameters) to the syslog
     
 
-
 ## iOS Tutorials and Guides
 
 *   [iOS 8 Hardening Configuration Guide by Australian Government](http://www.asd.gov.au/publications/iOS8_Hardening_Guide.pdf)
@@ -638,6 +1268,8 @@ For Mobile Security related resources, please visit my other project [MobileSecu
 *   [iOS Secure Coding Guide](https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html#//apple_ref/doc/uid/TP40002477-SW1)
 *   [iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 *   [NIST Cybersecurity Practice Guide : “Mobile Device Security: Cloud & Hybrid Builds”](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security)
+
+## Books 
 
 <table>
 <thead>
@@ -696,8 +1328,7 @@ For Mobile Security related resources, please visit my other project [MobileSecu
 
 # Windows
 
-
-Windows Tools
+## Windows Tools
 
 *   [XAPSpy](https://github.com/sensepost/XAPSpy) - runtime analysis of windows phone 7 applications
     
@@ -718,6 +1349,8 @@ Windows Tools
 *   [Binscope Binary Analyzer](http://www.microsoft.com/en-in/download/details.aspx?id=11910) - BinScope is a Microsoft verification tool that analyzes binaries on a project-wide level to ensure that they have been built in compliance with Microsoft’s Security Development Lifecycle (SDL) requirements and recommendations.
     
 *   [Phate](https://github.com/gebucholz/Phate) - A network server and library for exploring Windows Phone 8
+
+## Windows Presentations
 
 <table>
 <thead>
@@ -766,7 +1399,6 @@ Windows Tools
     
 *   [Windows Mobile Application Security Testing - Part 5](http://anandsecurity.blogspot.in/2016/02/windows-mobile-application-security_29.html?spref=tw)
     
-
 
 ## Windows Whitepapers
 
