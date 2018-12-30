@@ -40,8 +40,9 @@
 * [Command injection which got me "6000$" from #Google](http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html?view=sidebar)
 * [Latex to RCE, Private Bug Bounty Program – InfoSec Write-ups – Medium](https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a)
 * [Yahoo! RCE via Spring Engine SSTI – ∞ Growing Web Security Blog](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)
-* [Microsoft Edge RCE via crafted URI and WSH injection] (https://leucosite.com/Microsoft-Edge-RCE/) 
+* [Microsoft Edge RCE via crafted URI and WSH injection](https://leucosite.com/Microsoft-Edge-RCE/) 
 * [Story of my two (but actually three) RCEs in SharePoint in 2018 | Soroush Dalili (@irsdl) – سروش دلیلی](https://soroush.secproject.com/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/)
+* [GitHub Desktop RCE (OSX) - André Baptista](https://pwning.re/2018/12/04/github-desktop-rce/)
 
 ### Tools/Payloads
 
