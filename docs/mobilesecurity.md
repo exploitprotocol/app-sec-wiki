@@ -316,7 +316,6 @@
 * [#258460 [Quora Android] Possible to steal arbitrary files from mobile device](https://hackerone.com/reports/258460)
 * [#283063 [IRCCloud Android] XSS in ImageViewerActivity](https://hackerone.com/reports/283063)
 * [#202425 Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425)
-* [Mobile Security - Application Security Wiki](https://appsecwiki.com/#/mobilesecurity)
 * [#272044 Android - Access of some not exported content providers](https://hackerone.com/reports/272044)
 * [#328486 [Zomato Android/iOS] Theft of user session](https://hackerone.com/reports/328486)
 * [#288955 [IRCCloud Android] Theft of arbitrary files leading to token leakage](https://hackerone.com/reports/288955)
