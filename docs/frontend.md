@@ -237,6 +237,7 @@
 ## ClickJacking
 
 * [Clickjackings in several Google Products](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a)
+* [Clickjacking on Google MyAccount Worth 7,500$ – Apapedulimu](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/)
 
 ## CORS Vulnerabilities
 
