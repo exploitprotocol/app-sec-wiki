@@ -310,6 +310,30 @@
 *   [Android Security Articles By Infosec Institute](http://resources.infosecinstitute.com/author/srinivas/)
 *   [Learning Android Bytecode](https://mariokmk.github.io/programming/2015/03/06/learning-android-bytecode.html)
 
+## Reports/Writeups
+
+* [#226191 Android MailRu Email: Thirdparty can access private data files with small user interaction](https://hackerone.com/reports/226191)
+* [#258460 [Quora Android] Possible to steal arbitrary files from mobile device](https://hackerone.com/reports/258460)
+* [#283063 [IRCCloud Android] XSS in ImageViewerActivity](https://hackerone.com/reports/283063)
+* [#202425 Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425)
+* [Mobile Security - Application Security Wiki](https://appsecwiki.com/#/mobilesecurity)
+* [#272044 Android - Access of some not exported content providers](https://hackerone.com/reports/272044)
+* [#328486 [Zomato Android/iOS] Theft of user session](https://hackerone.com/reports/328486)
+* [#288955 [IRCCloud Android] Theft of arbitrary files leading to token leakage](https://hackerone.com/reports/288955)
+* [#200427 Access of Android protected components via embedded intent](https://hackerone.com/reports/200427)
+* [#176065 [Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065)
+* [#289000 Vulnerable exported broadcast receiver](https://hackerone.com/reports/289000)
+* [#431002 Golden techniques to bypass host validations in Android apps](https://hackerone.com/reports/431002)
+* [#221558 Private Grab Messages on Android App can be accessed and cached by Search Engines](https://hackerone.com/reports/221558)
+* [#351555 Disclosure of all uploads to Cloudinary via hardcoded api secret in Android app](https://hackerone.com/reports/351555)
+* [#161710 Possible to steal any protected files on Android](https://hackerone.com/reports/161710)
+* [#189793 [Android] XSS via start ContentActivity](https://hackerone.com/reports/189793)
+* [#283058 [IRCCloud Android] Opening arbitrary URLs/XSS in SAMLAuthActivity](https://hackerone.com/reports/283058)
+* [#185862 Twitter for android is exposing user's location to any installed android app](https://hackerone.com/reports/185862)
+* [#5314 Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314)
+* [#167481 Android - Possible to intercept broadcasts about uploaded files](https://hackerone.com/reports/167481)
+* [#97295 Multiple critical vulnerabilities in Odnoklassniki Android application](https://hackerone.com/reports/97295)
+* [#284346 Download attachments with traversal path into any sdcard directory (incomplete fix 106097)](https://hackerone.com/reports/284346)
 
 ## Android Vulnerability List
 
