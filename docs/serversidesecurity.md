@@ -129,6 +129,7 @@
 * [One Cloud-based Local File Inclusion = Many Companies affected](https://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html)
 * [Josip Franjković - archived security blog: Reading local files from Facebook's server (fixed)](https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html)
 * [#213558 Arbitrary Local-File Read from Admin - Restore From Backup due to Symlinks](https://hackerone.com/reports/213558)
+* [Reading ASP secrets for $17,000 | Sam Curry](https://samcurry.net/reading-asp-secrets-for-17000/)
 
 ### Cheatsheets/Payloads
 
