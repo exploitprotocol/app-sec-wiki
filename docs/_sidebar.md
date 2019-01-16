@@ -3,7 +3,7 @@
 - [Frontend Security](frontend.md)
 - [Mobile Security](mobilesecurity.md)
 - [Reconnaissance](recon.md)
-- [DevSecOps](decsecops.md)
+- [DevSecOps](devsecops.md)
 - [Books](books.md)
 - [Burp Suite Extensions](burpextension.md)
 - [Vulnerable Apps](vulnerableapps.md)
