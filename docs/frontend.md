@@ -10,6 +10,7 @@
 * [Xssing Web Part - 1](http://blog.rakeshmane.com/2016/11/xssing-web-part-1.html)
 * [Xssing Web Part - 2](http://blog.rakeshmane.com/2017/08/xssing-web-part-2.html)
 * [IronWASP - Open Source Advanced Web Security Testing Platform: Contexts and Cross-site Scripting - a brief intro](http://blog.ironwasp.org/2014/07/contexts-and-cross-site-scripting-brief.html)
+* [A Deeper Look into XSS Payloads](https://research.digitalinterruption.com/2018/12/18/a-deeper-look-into-xss-payloads/)
 
 ### Reflected XSS
 
