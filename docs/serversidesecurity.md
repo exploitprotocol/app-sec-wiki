@@ -367,6 +367,7 @@
 * [#143717 Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717)
 * [Password Not Provided - Compromising Any Flurry User's Account | Lightning Security](https://lightningsecurity.io/blog/password-not-provided/)
 * [Inspect Element leads to Stripe Account Lockout Authentication Bypass | Security and Bug Hunting](https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/)
+* [How I abused 2FA to maintain persistence after a password change](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)
 
 ## CSV Injection
 
