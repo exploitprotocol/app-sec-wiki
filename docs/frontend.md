@@ -83,6 +83,7 @@
 * [mandatoryprogrammer/xssless: An automated XSS payload generator written in python.](https://github.com/mandatoryprogrammer/xssless)
 * [stamparm/DSXS: Damn Small XSS Scanner](https://github.com/stamparm/DSXS)
 * [JSFuck](http://www.jsfuck.com/)
+* [XSS Hunter is a better way to do Cross-site Scripting](https://xsshunter.com/)
 
 ## Content Security Policy(CSP)
 
