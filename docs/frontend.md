@@ -82,6 +82,7 @@
 * [nVisium/xssValidator: This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.](https://github.com/nVisium/xssValidator)
 * [mandatoryprogrammer/xssless: An automated XSS payload generator written in python.](https://github.com/mandatoryprogrammer/xssless)
 * [stamparm/DSXS: Damn Small XSS Scanner](https://github.com/stamparm/DSXS)
+* [JSFuck](http://www.jsfuck.com/)
 
 ## Content Security Policy(CSP)
 
