@@ -158,6 +158,7 @@
 * [Exploiting a Boolean Based SQL Injection using Burp Suite Intruder – i break software](https://ibreak.software/2017/12/exploiting-a-boolean-based-sql-injection-using-burp-suite-intruder/)
 * [Beyond SQLi: Obfuscate and Bypass](https://www.exploit-db.com/papers/17934/)
 * [Orange: GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html)
+* [SQLi Without Quotes](https://eternalnoobs.com/sqli-without-quotes/)
 
 ### Cheatsheet/Payloads
 
