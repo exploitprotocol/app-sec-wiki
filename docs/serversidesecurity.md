@@ -158,6 +158,7 @@
 * [Exploiting a Boolean Based SQL Injection using Burp Suite Intruder – i break software](https://ibreak.software/2017/12/exploiting-a-boolean-based-sql-injection-using-burp-suite-intruder/)
 * [Beyond SQLi: Obfuscate and Bypass](https://www.exploit-db.com/papers/17934/)
 * [Orange: GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html)
+* [SQLi Without Quotes](https://eternalnoobs.com/sqli-without-quotes/)
 
 ### Cheatsheet/Payloads
 
@@ -367,6 +368,8 @@
 * [#143717 Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717)
 * [Password Not Provided - Compromising Any Flurry User's Account | Lightning Security](https://lightningsecurity.io/blog/password-not-provided/)
 * [Inspect Element leads to Stripe Account Lockout Authentication Bypass | Security and Bug Hunting](https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/)
+* [How I abused 2FA to maintain persistence after a password change](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)
+* [Defeating Flask’s Session Management](https://blog.paradoxis.nl/defeating-flasks-session-management-65706ba9d3ce)
 
 ## CSV Injection
 
@@ -450,6 +453,7 @@
 * [Top 10 2013-A4-Insecure Direct Object References - OWASP](https://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References)
 * [Testing for Insecure Direct Object References (OTG-AUTHZ-004) - OWASP](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004))
 * [How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities](https://www.bugcrowd.com/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
+[Web Security 101 - HTTP Parameter Pollution - I didn't see that coming.](https://youtu.be/QVZBl8yxVX0)
 
 ### Writeups
 
