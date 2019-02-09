@@ -370,6 +370,7 @@
 * [Inspect Element leads to Stripe Account Lockout Authentication Bypass | Security and Bug Hunting](https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/)
 * [How I abused 2FA to maintain persistence after a password change](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)
 * [Defeating Flask’s Session Management](https://blog.paradoxis.nl/defeating-flasks-session-management-65706ba9d3ce)
+* [reCAPTCHA bypass via HTTP Parameter Pollution](https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/)
 
 ## CSV Injection
 
