@@ -452,6 +452,7 @@
 * [Top 10 2013-A4-Insecure Direct Object References - OWASP](https://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References)
 * [Testing for Insecure Direct Object References (OTG-AUTHZ-004) - OWASP](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004))
 * [How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities](https://www.bugcrowd.com/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
+[Web Security 101 - HTTP Parameter Pollution - I didn't see that coming.](https://youtu.be/QVZBl8yxVX0)
 
 ### Writeups
 
