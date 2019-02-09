@@ -124,6 +124,7 @@
 * [Some google dorks useful in footprinting](https://gist.github.com/zbetcheckin/04e6a5d7f2d5ef8cfa3c298701f47f9c)
 * [The definitive super list for "Google Hacking".](https://gist.github.com/cmartinbaughman/5877945)
 * [Recon-my-way](https://medium.com/ehsahil/recon-my-way-82b7e5f62e21)
+* [BugBountyProTips ~ Collection](https://medium.com/@khaled.hassan/bugbountyprotip-collection-4a19e5b5b296)
 
 ### Tools
 
