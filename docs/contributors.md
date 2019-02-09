@@ -27,3 +27,4 @@ Below is the list of awesome people who contributed to this wiki.
 * [Yogesh Sharma](https://twitter.com/yog3shsharma)
 * [Akanksha Bana](https://twitter.com/akankshabana)
 * [Shiv Sahni](https://www.linkedin.com/in/shivsahni/)
+* [Zawadi Done](https://zawadidone.nl/)
