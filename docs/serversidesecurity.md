@@ -148,6 +148,7 @@
 * [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
 * [Testing for SQL Injection (OTG-INPVAL-005) - OWASP](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 * [SQL Injection Bypassing WAF - OWASP](https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF)
+* [Blind SQL Injection](https://www.hackthis.co.uk/articles/blind-sql-injection)
 
 ### Writeups
 
