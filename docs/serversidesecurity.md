@@ -89,7 +89,7 @@
 * [XXE](https://phonexicum.github.io/infosec/xxe.html)
 * [XPATH Injection - OWASP](https://www.owasp.org/index.php/XPATH_Injection)
 * [Top 10-2017 A4-XML External Entities (XXE) - OWASP](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE))
-* [XML Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/XML_Security_Cheat_Sheet)
+* [XML Security Cheat Sheet - OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/XML_Security_Cheat_Sheet.md)
 * [XML External Entities ft. JohnHammond - PwnFunction](https://youtu.be/gjm6VHZa_8s)
 
 ### Writeups
@@ -178,7 +178,7 @@
 * [Critical vulnerabilities in JSON Web Token libraries](https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/)
 * [JWT - OWASP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet#JWT)
 * [Common JWT security vulnerabilities and how to avoid them | Connect2id](https://connect2id.com/products/nimbus-jose-jwt/vulnerabilities)
-* [JSON Web Token (JWT) Cheat Sheet for Java - OWASP](https://www.owasp.org/index.php/JSON_Web_Token_(JWT)_Cheat_Sheet_for_Java)
+* [JSON Web Token (JWT) Cheat Sheet for Java - OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/JSON_Web_Token_Cheat_Sheet_for_Java.md)
 * [How to Hack a Weak JWT Implementation with a Timing Attack](https://hackernoon.com/can-timing-attack-be-a-practical-security-threat-on-jwt-signature-ba3c8340dea9)
 
 ### Writeups
@@ -281,7 +281,7 @@
 
 ## API Security
 
-* [REST Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+* [REST Security Cheat Sheet - OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md)
 * [shieldfy/API-Security-Checklist: Checklist of the most important security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist)
 * [An interesting Google vulnerability that got me 3133.7 reward. | Security Down!](http://www.sec-down.com/wordpress/?p=809)
 
@@ -317,7 +317,7 @@
 
 ### Learning
 * [Deserialization of untrusted data - OWASP](https://www.owasp.org/index.php/Deserialization_of_untrusted_data)
-* [Deserialization Cheat Sheet - OWASP](https://www.owasp.org/index.php/Deserialization_Cheat_Sheet)
+* [Deserialization Cheat Sheet - OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md)
 * [Top 10-2017 A8-Insecure Deserialization - OWASP](https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization)
 
 ### Writeups
@@ -349,7 +349,7 @@
 ### Learning
 * [Testing for Bypassing Authentication Schema (OTG-AUTHN-004) - OWASP](https://www.owasp.org/index.php/Testing_for_Bypassing_Authentication_Schema_(OTG-AUTHN-004))
 * [Top 10-2017 A2-Broken Authentication - OWASP](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
-* [Authentication Cheat Sheet - OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
+* [Authentication Cheat Sheet - OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Authentication_Cheat_Sheet.md)
 * [Testing for HTTP Verb Tampering (OTG-INPVAL-003) - OWASP](https://www.owasp.org/index.php/Testing_for_HTTP_Verb_Tampering_(OTG-INPVAL-003))
 * [GoogleMeetRoulette: Joining random meetings - Martin Vigo](https://www.martinvigo.com/googlemeetroulette/)
 
@@ -456,7 +456,7 @@
 * [Top 10 2013-A4-Insecure Direct Object References - OWASP](https://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References)
 * [Testing for Insecure Direct Object References (OTG-AUTHZ-004) - OWASP](https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004))
 * [How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities](https://www.bugcrowd.com/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
-[Web Security 101 - HTTP Parameter Pollution - I didn't see that coming.](https://youtu.be/QVZBl8yxVX0)
+* [Web Security 101 - HTTP Parameter Pollution - I didn't see that coming.](https://youtu.be/QVZBl8yxVX0)
 
 ### Writeups
 
@@ -483,8 +483,10 @@
 
 * [cujanovic/CRLF-Injection-Payloads: Payloads for CRLF Injection](https://github.com/cujanovic/CRLF-Injection-Payloads/blob/master/CRLF-payloads.txt)
 * [PayloadsAllTheThings/CRLF injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF%20injection)
+
 ## Forgot Password Related Vulnerabilities
-* [Forgot Password Cheat Sheet - OWASP](https://www.owasp.org/index.php/Forgot_Password_Cheat_Sheet)
+
+* [Forgot Password Cheat Sheet - OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Forgot_Password_Cheat_Sheet.md)
 * [Full account Takeover via reset password function](https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f)
 
 ## Smart Contracts Security
