@@ -75,6 +75,8 @@
 *   [Thresher](http://pl.cs.colorado.edu/projects/thresher/) - Thresher is a static analysis tool that specializes in checking heap reachability properties. Its secret sauce is using a coarse up-front points-to analysis to focus a precise symbolic analysis on the alarms reported by the points-to analysis.
     
 *   [VectorAttackScanner](https://github.com/JhetoX/VectorAttackScanner) - A tool to analyze Android apps to detect points to attack, such as intents, receivers, services, processes and libraries
+
+* [StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications
     
 
 ## Dynamic Analysis Tools
