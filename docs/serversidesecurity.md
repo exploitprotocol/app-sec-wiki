@@ -309,6 +309,7 @@
 * [GraphQL abuse: Bypass account level permissions through parameter smuggling](https://labs.detectify.com/2018/03/14/graphql-abuse/)
 * [A Facebook GraphQL crash course](https://www.facebook.com/notes/phwd/a-facebook-graphql-crash-course/1189337427822946)
 * [#291531 Introspection query leaks sensitive graphql system information.](https://hackerone.com/reports/291531)
+* [Research on GraphQL from an AppSec point of view.](https://github.com/righettod/poc-graphql)
 
 ### Tools
 * [doyensec/graph-ql: GraphQL Security Research Material](https://github.com/doyensec/graph-ql)
