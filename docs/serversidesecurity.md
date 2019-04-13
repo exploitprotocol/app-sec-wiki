@@ -397,13 +397,14 @@
 
 * [epinna/tplmap: Server-Side Template Injection and Code Injection Detection and Exploitation Tool](https://github.com/epinna/tplmap)
 * [PayloadsAllTheThings/Server Side Template injections](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20injections)
-## WAF Bypass
+## WAF/CSP Bypass
 
 * [Web Application Firewall (WAF) Evasion Techniques – secjuice™ – Medium](https://medium.com/secjuice/waf-evasion-techniques-718026d693d8)
 * [Web Application Firewall (WAF) Evasion Techniques #2](https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0)
 * [Web Application Firewall (WAF) Evasion Techniques #3](https://www.secjuice.com/web-application-firewall-waf-evasion/)
 * [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities | Brett Buerhaus](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/)
 * [How to bypass libinjection in many WAF/NGWAF – Ivan Novikov – Medium](https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f)
+* [A Novel CSP Bypass Using data: URI](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/april/a-novel-csp-bypass-using-data-uri/)
 
 
 ## WebHooks Security
