@@ -96,6 +96,7 @@
 * [Bypassing CSP using polyglot JPEGs | Blog](https://portswigger.net/blog/bypassing-csp-using-polyglot-jpegs)
 * [Chrome XSS Auditor - SVG Bypass - Brute XSS](https://brutelogic.com.br/blog/chrome-xss-auditor-svg-bypass/)
 * [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa)
+* [A Novel CSP Bypass Using data: URI](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/april/a-novel-csp-bypass-using-data-uri/)
 
 ### Burp Extensions
 
