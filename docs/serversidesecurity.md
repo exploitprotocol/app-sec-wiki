@@ -167,6 +167,8 @@
 * [SQL Injection Cheat Sheet | Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * [The SQL Injection Knowledge Base](https://websec.ca/kb/sql_injection)
 * [PayloadsAllTheThings/SQL injection ](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20injection)
+* [Portswigger SQL injection cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+
 ### Tools
 
 * [sqlmapproject/sqlmap: Automatic SQL injection and database takeover tool](https://github.com/sqlmapproject/sqlmap)
