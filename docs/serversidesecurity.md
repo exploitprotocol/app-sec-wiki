@@ -137,7 +137,7 @@
 ### Cheatsheets/Payloads
 
 * [LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
-* [PayloadsAllTheThings/File Inclusion - Path Traversal](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion%20-%20Path%20Traversal)
+* [PayloadsAllTheThings/File Inclusion - Path Traversal](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
 
 ## SQL Injection
 
