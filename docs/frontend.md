@@ -36,6 +36,7 @@
 * [sirdarckcat: 🤷 Unpatched (0day) jQuery Mobile XSS](https://sirdarckcat.blogspot.com/2017/02/unpatched-0day-jquery-mobile-xss.html)
 * ['>">123\: [dev.twitter.com] XSS](https://blog.blackfan.ru/2017/09/devtwittercom-xss.html)
 * [[BBP系列二] Uber XSS via Cookie | zhchbin](https://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/)
+* [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons)
 
 ### Stored XSS
 
