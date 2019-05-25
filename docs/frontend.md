@@ -37,6 +37,7 @@
 * ['>">123\: [dev.twitter.com] XSS](https://blog.blackfan.ru/2017/09/devtwittercom-xss.html)
 * [[BBP系列二] Uber XSS via Cookie | zhchbin](https://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/)
 * [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons)
+* [So you thought htmlentities() always protects against XSS? ](https://twitter.com/intigriti/status/1130071027776708608)
 
 ### Stored XSS
 
@@ -86,6 +87,7 @@
 * [stamparm/DSXS: Damn Small XSS Scanner](https://github.com/stamparm/DSXS)
 * [JSFuck](http://www.jsfuck.com/)
 * [XSS Hunter is a better way to do Cross-site Scripting](https://xsshunter.com/)
+* [Unicode Converter](https://www.branah.com/unicode-converter)
 
 ## Content Security Policy(CSP)
 
