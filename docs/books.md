@@ -1,5 +1,5 @@
 If you are a beginner, I would suggest to start with below books
-
+* [Head First Android Development: A Brain-Friendly Guide: Dawn Griffiths, David Griffiths](https://www.amazon.com/Head-First-Android-Development-Brain-Friendly/dp/1491974052)
 * [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws: Dafydd Stuttard, Marcus Pinto](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
 * [OWASP Testing Guide V4](https://www.owasp.org/images/1/19/OTGv4.pdf)
 * [Mastering Modern Web Penetration Testing By Prakhar Prashad](https://www.amazon.in/Mastering-Modern-Web-Penetration-Testing/dp/1785284584)
