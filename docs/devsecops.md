@@ -1,6 +1,7 @@
 ## Learning
 
 * [DevSecOps-Studio](https://github.com/teacheraio/DevSecOps-Studio): DevSecOps Distribution - Virtual Environment to learn DevSecOps
+* [DevSecOps University](https://www.practical-devsecops.com/devsecops-university/): The comprehensive collection of DevSecOps Learning Resources like Books, Tutorials, Infographics, Tools and much more.
 
 ## Tools
 
